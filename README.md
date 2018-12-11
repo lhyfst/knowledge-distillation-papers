@@ -2,12 +2,12 @@
 
 > Author: Li Heyuan (李贺元)<br>
 > Email: lhyfst@gmail.com<br>
-> Inspired by [dkozlov/awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
-> all rights reserved
+> Inspired by [dkozlov/awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)<br>
+> All rights reserved
 
 
 If you have any suggestion or want to recommend new papers, please feel free to let me know.<br>
-I will keep updating this project.<br>
+I will keep updating this project frequently.<br>
 
 ---
 
@@ -54,4 +54,4 @@ I will keep updating this project.<br>
 
 
 ## Special Topics
-coming...
+Coming...
