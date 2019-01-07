@@ -7,6 +7,7 @@
 
 
 If you have any suggestion or want to recommend new papers, please feel free to let me know.<br>
+I have read all the papers here, and am very happy to discuss with you if you have any questions on these papers.<br>
 I will keep updating this project frequently.<br>
 
 ---
@@ -41,7 +42,20 @@ I will keep updating this project frequently.<br>
 * [Rocket Launching: A Universal and Efficient Framework for Training Well-performing Light Net](https://arxiv.org/pdf/1708.04106.pdf), Zihao Liu, Qi Liu, Tao Liu, Yanzhi Wang, Wujie Wen, 2017
 
 
-## Recent Papers
+## Recent Papers(since 2018)
+
+* [Learning Global Additive Explanations for Neural Nets Using Model Distillation](https://arxiv.org/pdf/1801.08640.pdf), Sarah Tan, Rich Caruana, Giles Hooker, Paul Koch, Albert Gordo, 2018
+* [YASENN: Explaining Neural Networks via Partitioning Activation Sequences](https://arxiv.org/pdf/1811.02783), Yaroslav Zharov, Denis Korzhenkov, Pavel Shvechikov, Alexander Tuzhilin, 2018
+* [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](https://arxiv.org/pdf/1703.01780), Antti Tarvainen, Harri Valpola, 2018
+* [Local Affine Approximators for Improving Knowledge Transfer](https://lld-workshop.github.io/2017/papers/LLD_2017_paper_28.pdf), Suraj Srinivas & François Fleuret, 2018
+
+
+## Relevant Papers
+
+* [Learning Efficient Object Detection Models with Knowledge Distillation](https://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation.pdf), Guobin Chen, Wongun Choi, Xiang Yu, Tony Han, Manmohan Chandraker, NIPS 2017
+* [Data Distillation: Towards Omni-Supervised Learning](https://arxiv.org/pdf/1712.04440), Ilija Radosavovic, Piotr Dollár, Ross Girshick, Georgia Gkioxari, Kaiming He, CVPR 2017
+* [Cross Modal Distillation for Supervision Transfer](https://people.eecs.berkeley.edu/~jhoffman/papers/Gupta_CVPR16.pdf), Saurabh Gupta, Judy Hoffman, Jitendra Malik, CVPR 2016
+* [Knowledge Projection for Deep Neural Networks](https://arxiv.org/pdf/1710.09505), Zhi Zhang, Guanghan Ning, Zhihai He, 2017
 * [Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/pdf/1707.01219), Zehao Huang, Naiyan Wang, 2017
 * [Deep Model Compression: Distilling Knowledge from Noisy Teachers](https://arxiv.org/pdf/1610.09650), Bharat Bhusan Sau, Vineeth N. Balasubramanian, 2016
 * [Knowledge Distillation for Small-footprint Highway Networks](https://arxiv.org/pdf/1608.00892), Liang Lu, Michelle Guo, Steve Renals, 2016
@@ -50,8 +64,9 @@ I will keep updating this project frequently.<br>
 * [Data-Free Knowledge Distillation For Deep Neural Networks](http://raphagl.com/research/replayed-distillation/), Raphael Gontijo Lopes, Stefano Fenu, 2017 
 * [DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://arxiv.org/pdf/1707.01220), Yuntao Chen, Naiyan Wang, Zhaoxiang Zhang, 2017
 * [Face Model Compression by Distilling Knowledge from Neurons](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11977/12130), Ping Luo, Zhenyao Zhu, Ziwei Liu, Xiaogang Wang, and Xiaoou Tang, 2016
-
+* [Adapting Models to Signal Degradation using Distillation](https://arxiv.org/pdf/1604.00433.pdf), Jong-Chyi Su, Subhransu Maji, BMVC 2017
 
 
 ## Special Topics
+
 Coming...
