@@ -65,8 +65,3 @@ I will keep updating this project frequently.<br>
 * [DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://arxiv.org/pdf/1707.01220), Yuntao Chen, Naiyan Wang, Zhaoxiang Zhang, 2017
 * [Face Model Compression by Distilling Knowledge from Neurons](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11977/12130), Ping Luo, Zhenyao Zhu, Ziwei Liu, Xiaogang Wang, and Xiaoou Tang, 2016
 * [Adapting Models to Signal Degradation using Distillation](https://arxiv.org/pdf/1604.00433.pdf), Jong-Chyi Su, Subhransu Maji, BMVC 2017
-
-
-## Special Topics
-
-Coming...
