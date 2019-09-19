@@ -49,6 +49,7 @@ I will keep updating this project frequently.<br>
 * [YASENN: Explaining Neural Networks via Partitioning Activation Sequences](https://arxiv.org/pdf/1811.02783), Yaroslav Zharov, Denis Korzhenkov, Pavel Shvechikov, Alexander Tuzhilin, 2018
 * [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](https://arxiv.org/pdf/1703.01780), Antti Tarvainen, Harri Valpola, 2018
 * [Local Affine Approximators for Improving Knowledge Transfer](https://lld-workshop.github.io/2017/papers/LLD_2017_paper_28.pdf), Suraj Srinivas & François Fleuret, 2018
+* [Learning Efficient Detector with Semi-supervised Adaptive Distillation](https://arxiv.org/pdf/1901.00366.pdf), Shitao Tang, Litong Feng, Zhanghui Kuang, Wenqi Shao, Quanquan Li, Wei Zhang, Yimin Chen, 2019
 
 
 ## Relevant Papers
