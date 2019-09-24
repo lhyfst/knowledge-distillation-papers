@@ -51,6 +51,7 @@ I will keep updating this project frequently.<br>
 * [Local Affine Approximators for Improving Knowledge Transfer](https://lld-workshop.github.io/2017/papers/LLD_2017_paper_28.pdf), Suraj Srinivas & François Fleuret, 2018
 * [Binary Ensemble Neural Network: More Bits per Network or More Networks per Bit?](https://arxiv.org/pdf/1806.07550.pdf)Shilin Zhu, Xin Dong, Hao Su, 2018
 * [Learning Efficient Detector with Semi-supervised Adaptive Distillation](https://arxiv.org/pdf/1901.00366.pdf), Shitao Tang, Litong Feng, Zhanghui Kuang, Wenqi Shao, Quanquan Li, Wei Zhang, Yimin Chen, 2019
+* [Dataset Distillation](https://arxiv.org/pdf/1811.10959.pdf), Tongzhou Wang, Jun-Yan Zhu, Antonio Torralba, Alexei A. Efros, 2019
 
 
 ## Relevant Papers
