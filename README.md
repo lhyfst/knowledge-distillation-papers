@@ -52,7 +52,8 @@ I will keep updating this project frequently.<br>
 * [Binary Ensemble Neural Network: More Bits per Network or More Networks per Bit?](https://arxiv.org/pdf/1806.07550.pdf)Shilin Zhu, Xin Dong, Hao Su, 2018
 * [Learning Efficient Detector with Semi-supervised Adaptive Distillation](https://arxiv.org/pdf/1901.00366.pdf), Shitao Tang, Litong Feng, Zhanghui Kuang, Wenqi Shao, Quanquan Li, Wei Zhang, Yimin Chen, 2019
 * [Dataset Distillation](https://arxiv.org/pdf/1811.10959.pdf), Tongzhou Wang, Jun-Yan Zhu, Antonio Torralba, Alexei A. Efros, 2019
-
+* [Relational Knowledge Distillation](https://arxiv.org/abs/1904.05068), Wonpyo Park, Dongju Kim, Yan Lu, Minsu Cho, 2019
+* [Knowledge Adaptation for Efficient Semantic Segmentation](https://arxiv.org/abs/1903.04688), Tong He, Chunhua Shen, Zhi Tian, Dong Gong, Changming Sun, Youliang Yan, 2019
 
 ## Relevant Papers
 
