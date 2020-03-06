@@ -55,6 +55,8 @@ I will keep updating this project frequently.<br>
 * [Relational Knowledge Distillation](https://arxiv.org/abs/1904.05068), Wonpyo Park, Dongju Kim, Yan Lu, Minsu Cho, 2019
 * [Knowledge Adaptation for Efficient Semantic Segmentation](https://arxiv.org/abs/1903.04688), Tong He, Chunhua Shen, Zhi Tian, Dong Gong, Changming Sun, Youliang Yan, 2019
 * [A Comprehensive Overhaul of Feature Distillation](https://arxiv.org/abs/1904.01866), Byeongho Heo, Jeesoo Kim, Sangdoo Yun, Hyojin Park, Nojun Kwak, Jin Young Choi, 2019
+* [Towards Understanding Knowledge Distillation](http://arxiv.org/abs/2002.03532), Mary Phuong, Christoph Lampert, ICML, 2019
+
 
 ## Relevant Papers
 
