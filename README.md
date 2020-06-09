@@ -42,7 +42,7 @@ I will keep updating this project frequently.<br>
 * [Rocket Launching: A Universal and Efficient Framework for Training Well-performing Light Net](https://arxiv.org/pdf/1708.04106.pdf), Zihao Liu, Qi Liu, Tao Liu, Yanzhi Wang, Wujie Wen, 2017
 * [Improved Knowledge Distillation via Teacher Assistant: Bridging the Gap Between Student and Teacher](https://arxiv.org/pdf/1902.03393.pdf), Seyed-Iman Mirzadeh, Mehrdad Farajtabar, Ang Li, Hassan Ghasemzadeh, 2019
 * [ResKD: Residual-Guided Knowledge Distillation]
-(), Xuewei Li, Songyuan Li, Bourahla Omar, and Xi Li, 2020
+(https://arxiv.org/pdf/2006.04719.pdf), Xuewei Li, Songyuan Li, Bourahla Omar, and Xi Li, 2020
 
 ## Recent Papers(since 2018)
 
