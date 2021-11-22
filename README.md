@@ -42,20 +42,29 @@ I will keep updating this project frequently.<br>
 * [Rocket Launching: A Universal and Efficient Framework for Training Well-performing Light Net](https://arxiv.org/pdf/1708.04106.pdf), Zihao Liu, Qi Liu, Tao Liu, Yanzhi Wang, Wujie Wen, 2017
 * [Improved Knowledge Distillation via Teacher Assistant: Bridging the Gap Between Student and Teacher](https://arxiv.org/pdf/1902.03393.pdf), Seyed-Iman Mirzadeh, Mehrdad Farajtabar, Ang Li, Hassan Ghasemzadeh, 2019
 * [ResKD: Residual-Guided Knowledge Distillation](https://arxiv.org/pdf/2006.04719.pdf), Xuewei Li, Songyuan Li, Bourahla Omar, and Xi Li, 2020
+* [Rethinking Data Augmentation: Self-Supervision and Self-Distillation](https://arxiv.org/abs/1910.05872), Hankook Lee, Sung Ju Hwang, Jinwoo Shin, 2019 
+* [MSD: Multi-Self-Distillation Learning via Multi-classifiers within Deep Neural Networks](https://arxiv.org/abs/1911.09418), Yunteng Luan, Hanyu Zhao, Zhi Yang, Yafei Dai, 2019
+* [Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation](https://arxiv.org/abs/1905.08094), Linfeng Zhang, Jiebo Song, Anni Gao, Jingwei Chen, Chenglong Bao, Kaisheng Ma, 2019 
 
-## Recent Papers(since 2018)
+## 2018
 
 * [Learning Global Additive Explanations for Neural Nets Using Model Distillation](https://arxiv.org/pdf/1801.08640.pdf), Sarah Tan, Rich Caruana, Giles Hooker, Paul Koch, Albert Gordo, 2018
 * [YASENN: Explaining Neural Networks via Partitioning Activation Sequences](https://arxiv.org/pdf/1811.02783), Yaroslav Zharov, Denis Korzhenkov, Pavel Shvechikov, Alexander Tuzhilin, 2018
 * [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](https://arxiv.org/pdf/1703.01780), Antti Tarvainen, Harri Valpola, 2018
 * [Local Affine Approximators for Improving Knowledge Transfer](https://lld-workshop.github.io/2017/papers/LLD_2017_paper_28.pdf), Suraj Srinivas & François Fleuret, 2018
 * [Binary Ensemble Neural Network: More Bits per Network or More Networks per Bit?](https://arxiv.org/pdf/1806.07550.pdf)Shilin Zhu, Xin Dong, Hao Su, 2018
+
+
+## 2019
 * [Learning Efficient Detector with Semi-supervised Adaptive Distillation](https://arxiv.org/pdf/1901.00366.pdf), Shitao Tang, Litong Feng, Zhanghui Kuang, Wenqi Shao, Quanquan Li, Wei Zhang, Yimin Chen, 2019
 * [Dataset Distillation](https://arxiv.org/pdf/1811.10959.pdf), Tongzhou Wang, Jun-Yan Zhu, Antonio Torralba, Alexei A. Efros, 2019
 * [Relational Knowledge Distillation](https://arxiv.org/abs/1904.05068), Wonpyo Park, Dongju Kim, Yan Lu, Minsu Cho, 2019
 * [Knowledge Adaptation for Efficient Semantic Segmentation](https://arxiv.org/abs/1903.04688), Tong He, Chunhua Shen, Zhi Tian, Dong Gong, Changming Sun, Youliang Yan, 2019
 * [A Comprehensive Overhaul of Feature Distillation](https://arxiv.org/abs/1904.01866), Byeongho Heo, Jeesoo Kim, Sangdoo Yun, Hyojin Park, Nojun Kwak, Jin Young Choi, 2019
 * [Towards Understanding Knowledge Distillation](http://arxiv.org/abs/2002.03532), Mary Phuong, Christoph Lampert, ICML, 2019
+- [Knowledge Distillation from Internal Representations](https://arxiv.org/abs/1910.03723), Gustavo Aguilar, Yuan Ling, Yu Zhang, Benjamin Yao, Xing Fan, Edward Guo, 2019
+- [Knowledge Flow: Improve Upon Your Teachers](https://arxiv.org/abs/1904.05878), Iou-Jen Liu, Jian Peng, Alexander G. Schwing, 2019
+
 
 
 ## Relevant Papers
