@@ -1,16 +1,5 @@
 # knowledge distillation papers
 
-> Author: Li Heyuan (李贺元)<br>
-> Email: lhyfst@gmail.com<br>
-> Inspired by [dkozlov/awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)<br>
-> All rights reserved
-
-
-If you have any suggestion or want to recommend new papers, please feel free to let me know.<br>
-I have read all the papers here, and am very happy to discuss with you if you have any questions on these papers.<br>
-I will keep updating this project frequently.<br>
-
----
 
 ## Early Papers
 
@@ -68,6 +57,10 @@ I will keep updating this project frequently.<br>
 ## 2020
 * [Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion](https://arxiv.org/abs/1912.08795), Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz, 2020
 * [Reducing the Teacher-Student Gap via Spherical Knowledge Disitllation](https://arxiv.org/abs/2010.07485), Jia Guo, Minghao Chen, Yao Hu, Chen Zhu, Xiaofei He, Deng Cai, 2020
+
+## 2021
+* [Dataset Distillation with Infinitely Wide Convolutional Networks](https://openreview.net/forum?id=hXWPpJedrVP), Timothy Nguyen, Roman Novak, Lechao Xiao, Jaehoon Lee, 2021
+* [Dataset Meta-Learning from Kernel Ridge-Regression](https://openreview.net/forum?id=l-PrrQrK0QR), Timothy Nguyen, Zhourong Chen, Jaehoon Lee, 2021
 
 ## Relevant Papers
 
