@@ -24,6 +24,7 @@
 * [Large scale distributed neural network training through online distillation](https://arxiv.org/pdf/1804.03235.pdf), Rohan Anil, Gabriel Pereyra, Alexandre Passos, Robert Ormandi, George E. Dahl, Geoffrey E. Hinton, 2018
 * [Deep Mutual Learning](https://arxiv.org/pdf/1706.00384.pdf), Ying Zhang, Tao Xiang, Timothy M. Hospedales, Huchuan Lu, 2017
 * [Learning Loss for Knowledge Distillation with Conditional Adversarial Networks](https://arxiv.org/pdf/1709.00513), Zheng Xu, Yen-Chang Hsu, Jiawei Huang, 2017
+* [Data-Free Knowledge Distillation for Deep Neural Networks](https://arxiv.org/pdf/1710.07535.pdf), Raphael Gontijo Lopes, Stefano Fenu, Thad Starner, 2017
 * [Quantization Mimic: Towards Very Tiny CNN for Object Detection](https://arxiv.org/pdf/1805.02152.pdf), Yi Wei, Xinyu Pan, Hongwei Qin, Wanli Ouyang, Junjie Yan, 2018
 * [Knowledge Projection for Deep Neural Networks](https://arxiv.org/pdf/1710.09505), Zhi Zhang, Guanghan Ning, Zhihai He, 2017
 * [Moonshine: Distilling with Cheap Convolutions](https://arxiv.org/pdf/1711.02613), Elliot J. Crowley, Gavin Gray, Amos Storkey, 2017
@@ -57,10 +58,14 @@
 ## 2020
 * [Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion](https://arxiv.org/abs/1912.08795), Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz, 2020
 * [Reducing the Teacher-Student Gap via Spherical Knowledge Disitllation](https://arxiv.org/abs/2010.07485), Jia Guo, Minghao Chen, Yao Hu, Chen Zhu, Xiaofei He, Deng Cai, 2020
+* [Data-Free Adversarial Distillation](https://arxiv.org/pdf/1912.11006.pdf), Gongfan Fang, Jie Song, Chengchao Shen, Xinchao Wang, Da Chen, Mingli Song, 2020
 
 ## 2021
 * [Dataset Distillation with Infinitely Wide Convolutional Networks](https://openreview.net/forum?id=hXWPpJedrVP), Timothy Nguyen, Roman Novak, Lechao Xiao, Jaehoon Lee, 2021
 * [Dataset Meta-Learning from Kernel Ridge-Regression](https://openreview.net/forum?id=l-PrrQrK0QR), Timothy Nguyen, Zhourong Chen, Jaehoon Lee, 2021
+* [Up to 100× Faster Data-free Knowledge Distillation](https://arxiv.org/pdf/2112.06253.pdf), Gongfan Fang1, Kanya Mo, Xinchao Wang, Jie Song, Shitao Bei, Haofei Zhang, Mingli Song, 2021
+* [Robustness and Diversity Seeking Data-Free Knowledge Distillation](https://arxiv.org/pdf/2011.03749.pdf), Pengchao Han, Jihong Park, Shiqiang Wang, Yejun Liu, 2021
+* [Data-Free Knowledge Transfer: A Survey](https://arxiv.org/pdf/2112.15278.pdf), Yuang Liu, Wei Zhang, Jun Wang, Jianyong Wang, 2021
 
 ## Relevant Papers
 
