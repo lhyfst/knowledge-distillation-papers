@@ -43,6 +43,9 @@
 * [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](https://arxiv.org/pdf/1703.01780), Antti Tarvainen, Harri Valpola, 2018
 * [Local Affine Approximators for Improving Knowledge Transfer](https://lld-workshop.github.io/2017/papers/LLD_2017_paper_28.pdf), Suraj Srinivas & François Fleuret, 2018
 * [Binary Ensemble Neural Network: More Bits per Network or More Networks per Bit?](https://arxiv.org/pdf/1806.07550.pdf)Shilin Zhu, Xin Dong, Hao Su, 2018
+* [Probabilistic Knowledge Transfer for deep representation learning](https://arxiv.org/pdf/1803.10837.pdf), Nikolaos Passalis, Anastasios Tefas, 2018
+* [Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/pdf/1811.03233.pdf), Byeongho Heo, Minsik Lee, Sangdoo Yun, Jin Young Choi, 2018
+* [Paraphrasing Complex Network: Network Compression via Factor Transfer](https://arxiv.org/pdf/1802.04977.pdf), Jangho Kim, SeongUk Park, Nojun Kwak, NIPS, 2018
 
 
 ## 2019
@@ -54,11 +57,15 @@
 * [Towards Understanding Knowledge Distillation](http://arxiv.org/abs/2002.03532), Mary Phuong, Christoph Lampert, ICML, 2019
 - [Knowledge Distillation from Internal Representations](https://arxiv.org/abs/1910.03723), Gustavo Aguilar, Yuan Ling, Yu Zhang, Benjamin Yao, Xing Fan, Edward Guo, 2019
 - [Knowledge Flow: Improve Upon Your Teachers](https://arxiv.org/abs/1904.05878), Iou-Jen Liu, Jian Peng, Alexander G. Schwing, 2019
+- [Similarity-Preserving Knowledge Distillation](https://arxiv.org/pdf/1907.09682.pdf), Frederick Tung, Greg Mori, 2019
+- [Correlation Congruence for Knowledge Distillation](Correlation Congruence for Knowledge Distillation), Baoyun Peng, Xiao Jin, Jiaheng Liu, Shunfeng Zhou, Yichao Wu, Yu Liu, Dongsheng Li, Zhaoning Zhang, 2019
+- [Variational Information Distillation for Knowledge Transfer](https://arxiv.org/pdf/1904.05835.pdf), Sungsoo Ahn, Shell Xu Hu, Andreas Damianou, Neil D. Lawrence, Zhenwen Dai, 2019
 
 ## 2020
 * [Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion](https://arxiv.org/abs/1912.08795), Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz, 2020
 * [Reducing the Teacher-Student Gap via Spherical Knowledge Disitllation](https://arxiv.org/abs/2010.07485), Jia Guo, Minghao Chen, Yao Hu, Chen Zhu, Xiaofei He, Deng Cai, 2020
 * [Data-Free Adversarial Distillation](https://arxiv.org/pdf/1912.11006.pdf), Gongfan Fang, Jie Song, Chengchao Shen, Xinchao Wang, Da Chen, Mingli Song, 2020
+* [Contrastive Representation Distillation](https://arxiv.org/abs/1910.10699v2), Yonglong Tian, Dilip Krishnan, Phillip Isola, ICLR, 2020
 
 ## 2021
 * [Dataset Distillation with Infinitely Wide Convolutional Networks](https://openreview.net/forum?id=hXWPpJedrVP), Timothy Nguyen, Roman Novak, Lechao Xiao, Jaehoon Lee, 2021
