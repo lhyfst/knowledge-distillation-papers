@@ -74,6 +74,9 @@
 * [Robustness and Diversity Seeking Data-Free Knowledge Distillation](https://arxiv.org/pdf/2011.03749.pdf), Pengchao Han, Jihong Park, Shiqiang Wang, Yejun Liu, 2021
 * [Data-Free Knowledge Transfer: A Survey](https://arxiv.org/pdf/2112.15278.pdf), Yuang Liu, Wei Zhang, Jun Wang, Jianyong Wang, 2021
 
+## 2022
+* [LGD: Label-guided Self-distillation for Object Detection](https://arxiv.org/abs/2109.11496), Peizhen Zhang, Zijian Kang, Tong Yang, Xiangyu Zhang, Nanning Zheng, Jian Sun, AAAI 2022
+
 ## Relevant Papers
 
 * [Learning Efficient Object Detection Models with Knowledge Distillation](https://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation.pdf), Guobin Chen, Wongun Choi, Xiang Yu, Tony Han, Manmohan Chandraker, NIPS 2017
