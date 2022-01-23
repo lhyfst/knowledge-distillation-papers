@@ -74,6 +74,8 @@
 * [Robustness and Diversity Seeking Data-Free Knowledge Distillation](https://arxiv.org/pdf/2011.03749.pdf), Pengchao Han, Jihong Park, Shiqiang Wang, Yejun Liu, 2021
 * [Data-Free Knowledge Transfer: A Survey](https://arxiv.org/pdf/2112.15278.pdf), Yuang Liu, Wei Zhang, Jun Wang, Jianyong Wang, 2021
 * [Undistillable: Making A Nasty Teacher That CANNOT teach students](https://openreview.net/forum?id=0zvfm-nZqQs), Haoyu Ma, Tianlong Chen, Ting-Kuei Hu, Chenyu You, Xiaohui Xie, Zhangyang Wang, ICLR 2021
+* [QuPeD: Quantized Personalization via Distillation with Applications to Federated Learning](https://arxiv.org/abs/2107.13892), Kaan Ozkara, Navjot Singh, Deepesh Data, Suhas Diggavi, NeurIPS 2021
+* [KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation](https://arxiv.org/abs/2109.10504), Yongfei Liu, Chenfei Wu, Shao-yen Tseng, Vasudev Lal, Xuming He, Nan Duan
 
 ## 2022
 * [LGD: Label-guided Self-distillation for Object Detection](https://arxiv.org/abs/2109.11496), Peizhen Zhang, Zijian Kang, Tong Yang, Xiangyu Zhang, Nanning Zheng, Jian Sun, AAAI 2022
