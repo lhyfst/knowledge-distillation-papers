@@ -79,6 +79,7 @@
 
 ## 2022
 * [LGD: Label-guided Self-distillation for Object Detection](https://arxiv.org/abs/2109.11496), Peizhen Zhang, Zijian Kang, Tong Yang, Xiangyu Zhang, Nanning Zheng, Jian Sun, AAAI 2022
+* [MonoDistill: Learning Spatial Features for Monocular 3D Object Detection](https://openreview.net/forum?id=C54V-xTWfi), Anonymous, ICLR 2022
 
 ## Relevant Papers
 
