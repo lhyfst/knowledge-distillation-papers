@@ -80,7 +80,8 @@
 ## 2022
 * [LGD: Label-guided Self-distillation for Object Detection](https://arxiv.org/abs/2109.11496), Peizhen Zhang, Zijian Kang, Tong Yang, Xiangyu Zhang, Nanning Zheng, Jian Sun, AAAI 2022
 * [MonoDistill: Learning Spatial Features for Monocular 3D Object Detection](https://openreview.net/forum?id=C54V-xTWfi), Anonymous, ICLR 2022
-* [Bag of Instances Aggregation Boosts Self-supervised Distillation](https://openreview.net/forum?id=N0uJGWDw21d), Haohang Xu, Jiemin Fang, XIAOPENG ZHANG, Lingxi Xie, Xinggang Wang, Wenrui Dai, Hongkai Xiong, Qi Tian, ICLR 2022
+* [Bag of Instances Aggregation Boosts Self-supervised Distillation](https://openreview.net/forum?id=N0uJGWDw21d), Haohang Xu, Jiemin Fang, Xiaopeng Zhang, Lingxi Xie, Xinggang Wang, Wenrui Dai, Hongkai Xiong, Qi Tian, ICLR 2022
+* [Meta Learning for Knowledge Distillation](https://arxiv.org/abs/2106.04570), Wangchunshu Zhou, Canwen Xu, Julian McAuley, 2022
 
 ## Relevant Papers
 
