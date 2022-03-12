@@ -46,6 +46,7 @@
 * [Probabilistic Knowledge Transfer for deep representation learning](https://arxiv.org/pdf/1803.10837.pdf), Nikolaos Passalis, Anastasios Tefas, 2018
 * [Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/pdf/1811.03233.pdf), Byeongho Heo, Minsik Lee, Sangdoo Yun, Jin Young Choi, 2018
 * [Paraphrasing Complex Network: Network Compression via Factor Transfer](https://arxiv.org/pdf/1802.04977.pdf), Jangho Kim, SeongUk Park, Nojun Kwak, NIPS, 2018
+* [KDGAN: Knowledge Distillation with Generative Adversarial Networks](https://proceedings.neurips.cc/paper/2018/file/019d385eb67632a7e958e23f24bd07d7-Paper.pdf), Xiaojie Wang, Rui Zhang, Yu Sun, Jianzhong Qi, NeurIPS 2018
 
 
 ## 2019
@@ -66,6 +67,7 @@
 * [Reducing the Teacher-Student Gap via Spherical Knowledge Disitllation](https://arxiv.org/abs/2010.07485), Jia Guo, Minghao Chen, Yao Hu, Chen Zhu, Xiaofei He, Deng Cai, 2020
 * [Data-Free Adversarial Distillation](https://arxiv.org/pdf/1912.11006.pdf), Gongfan Fang, Jie Song, Chengchao Shen, Xinchao Wang, Da Chen, Mingli Song, 2020
 * [Contrastive Representation Distillation](https://arxiv.org/abs/1910.10699v2), Yonglong Tian, Dilip Krishnan, Phillip Isola, ICLR, 2020
+* [StyleGAN2 Distillation for Feed-forward Image Manipulation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670171.pdf), Yuri Viazovetskyi, Vladimir Ivashkin, and Evgeny Kashin, ECCV 2020
 
 ## 2021
 * [Dataset Distillation with Infinitely Wide Convolutional Networks](https://openreview.net/forum?id=hXWPpJedrVP), Timothy Nguyen, Roman Novak, Lechao Xiao, Jaehoon Lee, 2021
@@ -76,12 +78,16 @@
 * [Undistillable: Making A Nasty Teacher That CANNOT teach students](https://openreview.net/forum?id=0zvfm-nZqQs), Haoyu Ma, Tianlong Chen, Ting-Kuei Hu, Chenyu You, Xiaohui Xie, Zhangyang Wang, ICLR 2021
 * [QuPeD: Quantized Personalization via Distillation with Applications to Federated Learning](https://arxiv.org/abs/2107.13892), Kaan Ozkara, Navjot Singh, Deepesh Data, Suhas Diggavi, NeurIPS 2021
 * [KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation](https://arxiv.org/abs/2109.10504), Yongfei Liu, Chenfei Wu, Shao-yen Tseng, Vasudev Lal, Xuming He, Nan Duan
+* [Online Knowledge Distillation for Efficient Pose Estimation](https://arxiv.org/abs/2108.02092), Zheng Li, Jingwen Ye, Mingli Song, Ying Huang, Zhigeng Pan, ICCV 2021
+* [Does Knowledge Distillation Really Work?](https://arxiv.org/abs/2106.05945), Samuel Stanton, Pavel Izmailov, Polina Kirichenko, Alexander A. Alemi, Andrew Gordon Wilson, NeurIPS 2021
 
 ## 2022
 * [LGD: Label-guided Self-distillation for Object Detection](https://arxiv.org/abs/2109.11496), Peizhen Zhang, Zijian Kang, Tong Yang, Xiangyu Zhang, Nanning Zheng, Jian Sun, AAAI 2022
 * [MonoDistill: Learning Spatial Features for Monocular 3D Object Detection](https://openreview.net/forum?id=C54V-xTWfi), Anonymous, ICLR 2022
 * [Bag of Instances Aggregation Boosts Self-supervised Distillation](https://openreview.net/forum?id=N0uJGWDw21d), Haohang Xu, Jiemin Fang, Xiaopeng Zhang, Lingxi Xie, Xinggang Wang, Wenrui Dai, Hongkai Xiong, Qi Tian, ICLR 2022
 * [Meta Learning for Knowledge Distillation](https://arxiv.org/abs/2106.04570), Wangchunshu Zhou, Canwen Xu, Julian McAuley, 2022
+* [Focal and Global Knowledge Distillation for Detectors](https://arxiv.org/abs/2111.11837), Zhendong Yang, Zhe Li, Xiaohu Jiang, Yuan Gong, Zehuan Yuan, Danpei Zhao, Chun Yuan, CVPR 2022
+* [Self-Distilled StyleGAN: Towards Generation from Internet Photos](https://arxiv.org/abs/2202.12211), Ron Mokady, Michal Yarom, Omer Tov, Oran Lang, Daniel Cohen-Or, Tali Dekel, Michal Irani, Inbar Mosseri, 2022
 
 ## Relevant Papers
 
