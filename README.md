@@ -80,6 +80,7 @@
 * [KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation](https://arxiv.org/abs/2109.10504), Yongfei Liu, Chenfei Wu, Shao-yen Tseng, Vasudev Lal, Xuming He, Nan Duan
 * [Online Knowledge Distillation for Efficient Pose Estimation](https://arxiv.org/abs/2108.02092), Zheng Li, Jingwen Ye, Mingli Song, Ying Huang, Zhigeng Pan, ICCV 2021
 * [Does Knowledge Distillation Really Work?](https://arxiv.org/abs/2106.05945), Samuel Stanton, Pavel Izmailov, Polina Kirichenko, Alexander A. Alemi, Andrew Gordon Wilson, NeurIPS 2021
+* [Hierarchical Self-supervised Augmented Knowledge Distillation](https://arxiv.org/abs/2107.13715), Chuanguang Yang, Zhulin An, Linhang Cai, Yongjun Xu, IJCAI 2021
 
 ## 2022
 * [LGD: Label-guided Self-distillation for Object Detection](https://arxiv.org/abs/2109.11496), Peizhen Zhang, Zijian Kang, Tong Yang, Xiangyu Zhang, Nanning Zheng, Jian Sun, AAAI 2022
@@ -88,6 +89,7 @@
 * [Meta Learning for Knowledge Distillation](https://arxiv.org/abs/2106.04570), Wangchunshu Zhou, Canwen Xu, Julian McAuley, 2022
 * [Focal and Global Knowledge Distillation for Detectors](https://arxiv.org/abs/2111.11837), Zhendong Yang, Zhe Li, Xiaohu Jiang, Yuan Gong, Zehuan Yuan, Danpei Zhao, Chun Yuan, CVPR 2022
 * [Self-Distilled StyleGAN: Towards Generation from Internet Photos](https://arxiv.org/abs/2202.12211), Ron Mokady, Michal Yarom, Omer Tov, Oran Lang, Daniel Cohen-Or, Tali Dekel, Michal Irani, Inbar Mosseri, 2022
+* [Knowledge Distillation for Object Detection via Rank Mimicking and Prediction-guided Feature Imitation](https://arxiv.org/abs/2112.04840), Gang Li, Xiang Li, Yujie Wang, Shanshan Zhang, Yichao Wu, Ding Liang, AAAI 2022
 
 ## Relevant Papers
 
