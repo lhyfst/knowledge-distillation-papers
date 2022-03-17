@@ -91,6 +91,7 @@
 * [Focal and Global Knowledge Distillation for Detectors](https://arxiv.org/abs/2111.11837), Zhendong Yang, Zhe Li, Xiaohu Jiang, Yuan Gong, Zehuan Yuan, Danpei Zhao, Chun Yuan, CVPR 2022
 * [Self-Distilled StyleGAN: Towards Generation from Internet Photos](https://arxiv.org/abs/2202.12211), Ron Mokady, Michal Yarom, Omer Tov, Oran Lang, Daniel Cohen-Or, Tali Dekel, Michal Irani, Inbar Mosseri, 2022
 * [Knowledge Distillation for Object Detection via Rank Mimicking and Prediction-guided Feature Imitation](https://arxiv.org/abs/2112.04840), Gang Li, Xiang Li, Yujie Wang, Shanshan Zhang, Yichao Wu, Ding Liang, AAAI 2022
+* [Decoupled Knowledge Distillation](https://arxiv.org/abs/2203.08679), Borui Zhao, Quan Cui, Renjie Song, Yiyu Qiu, Jiajun Liang, CVPR 2022
 
 ## Relevant Papers
 
