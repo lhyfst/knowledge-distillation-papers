@@ -61,6 +61,7 @@
 - [Similarity-Preserving Knowledge Distillation](https://arxiv.org/pdf/1907.09682.pdf), Frederick Tung, Greg Mori, 2019
 - [Correlation Congruence for Knowledge Distillation](Correlation Congruence for Knowledge Distillation), Baoyun Peng, Xiao Jin, Jiaheng Liu, Shunfeng Zhou, Yichao Wu, Yu Liu, Dongsheng Li, Zhaoning Zhang, 2019
 - [Variational Information Distillation for Knowledge Transfer](https://arxiv.org/pdf/1904.05835.pdf), Sungsoo Ahn, Shell Xu Hu, Andreas Damianou, Neil D. Lawrence, Zhenwen Dai, 2019
+- [Knowledge Distillation via Instance Relationship Graph](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Knowledge_Distillation_via_Instance_Relationship_Graph_CVPR_2019_paper.pdf), Yufan Liu, Jiajiong Cao, Bing Lia, Chunfeng Yuan, Weiming Hua, Yangxi Lic, Yunqiang Duan, CVPR 2019
 
 ## 2020
 * [Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion](https://arxiv.org/abs/1912.08795), Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz, 2020
@@ -68,6 +69,7 @@
 * [Data-Free Adversarial Distillation](https://arxiv.org/pdf/1912.11006.pdf), Gongfan Fang, Jie Song, Chengchao Shen, Xinchao Wang, Da Chen, Mingli Song, 2020
 * [Contrastive Representation Distillation](https://arxiv.org/abs/1910.10699v2), Yonglong Tian, Dilip Krishnan, Phillip Isola, ICLR, 2020
 * [StyleGAN2 Distillation for Feed-forward Image Manipulation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670171.pdf), Yuri Viazovetskyi, Vladimir Ivashkin, and Evgeny Kashin, ECCV 2020
+* [Distilling Knowledge from Graph Convolutional Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Distilling_Knowledge_From_Graph_Convolutional_Networks_CVPR_2020_paper.pdf), Yiding Yang, Jiayan Qiu, Mingli Song, Dacheng Tao, Xinchao Wang, CVPR 2020
 
 ## 2021
 * [Dataset Distillation with Infinitely Wide Convolutional Networks](https://openreview.net/forum?id=hXWPpJedrVP), Timothy Nguyen, Roman Novak, Lechao Xiao, Jaehoon Lee, 2021
@@ -82,6 +84,8 @@
 * [Does Knowledge Distillation Really Work?](https://arxiv.org/abs/2106.05945), Samuel Stanton, Pavel Izmailov, Polina Kirichenko, Alexander A. Alemi, Andrew Gordon Wilson, NeurIPS 2021
 * [Hierarchical Self-supervised Augmented Knowledge Distillation](https://arxiv.org/abs/2107.13715), Chuanguang Yang, Zhulin An, Linhang Cai, Yongjun Xu, IJCAI 2021
 * [DarkGAN: Exploiting Knowledge Distillation for Comprehensible Audio Synthesis With GANs](https://archives.ismir.net/ismir2021/paper/000060.pdf), Javier Nistal, Stefan Lattner, Gaël Richard, ISMIR2021
+* [On Self-Distilling Graph Neural Network](https://www.ijcai.org/proceedings/2021/0314.pdf), Yuzhao Chen, Yatao Bian, Xi Xiao, Yu Rong, Tingyang Xu, Junzhou Huang, IJCAI 2021
+* [Graph-Free Knowledge Distillation for Graph Neural Networks](https://www.ijcai.org/proceedings/2021/0320.pdf), Xiang Deng, Zhongfei Zhang, IJCAI 2021
 
 ## 2022
 * [LGD: Label-guided Self-distillation for Object Detection](https://arxiv.org/abs/2109.11496), Peizhen Zhang, Zijian Kang, Tong Yang, Xiangyu Zhang, Nanning Zheng, Jian Sun, AAAI 2022
@@ -92,6 +96,7 @@
 * [Self-Distilled StyleGAN: Towards Generation from Internet Photos](https://arxiv.org/abs/2202.12211), Ron Mokady, Michal Yarom, Omer Tov, Oran Lang, Daniel Cohen-Or, Tali Dekel, Michal Irani, Inbar Mosseri, 2022
 * [Knowledge Distillation for Object Detection via Rank Mimicking and Prediction-guided Feature Imitation](https://arxiv.org/abs/2112.04840), Gang Li, Xiang Li, Yujie Wang, Shanshan Zhang, Yichao Wu, Ding Liang, AAAI 2022
 * [Decoupled Knowledge Distillation](https://arxiv.org/abs/2203.08679), Borui Zhao, Quan Cui, Renjie Song, Yiyu Qiu, Jiajun Liang, CVPR 2022
+* [Graph Flow: Cross-layer Graph Flow Distillation for Dual-Efficient Medical Image Segmentation](https://arxiv.org/abs/2203.08667), Wenxuan Zou, Muyi Sun, 2022
 
 ## Relevant Papers
 
