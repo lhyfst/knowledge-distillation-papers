@@ -97,6 +97,7 @@
 * [Knowledge Distillation for Object Detection via Rank Mimicking and Prediction-guided Feature Imitation](https://arxiv.org/abs/2112.04840), Gang Li, Xiang Li, Yujie Wang, Shanshan Zhang, Yichao Wu, Ding Liang, AAAI 2022
 * [Decoupled Knowledge Distillation](https://arxiv.org/abs/2203.08679), Borui Zhao, Quan Cui, Renjie Song, Yiyu Qiu, Jiajun Liang, CVPR 2022
 * [Graph Flow: Cross-layer Graph Flow Distillation for Dual-Efficient Medical Image Segmentation](https://arxiv.org/abs/2203.08667), Wenxuan Zou, Muyi Sun, 2022
+* [Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932), George Cazenavette, Tongzhou Wang, Antonio Torralba, Alexei A. Efros, Jun-Yan Zhu, CVPR 2022
 
 ## Relevant Papers
 
