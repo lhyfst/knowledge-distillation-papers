@@ -86,6 +86,7 @@
 * [DarkGAN: Exploiting Knowledge Distillation for Comprehensible Audio Synthesis With GANs](https://archives.ismir.net/ismir2021/paper/000060.pdf), Javier Nistal, Stefan Lattner, Gaël Richard, ISMIR2021
 * [On Self-Distilling Graph Neural Network](https://www.ijcai.org/proceedings/2021/0314.pdf), Yuzhao Chen, Yatao Bian, Xi Xiao, Yu Rong, Tingyang Xu, Junzhou Huang, IJCAI 2021
 * [Graph-Free Knowledge Distillation for Graph Neural Networks](https://www.ijcai.org/proceedings/2021/0320.pdf), Xiang Deng, Zhongfei Zhang, IJCAI 2021
+* [Self Supervision to Distillation for Long-Tailed Visual Recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Self_Supervision_to_Distillation_for_Long-Tailed_Visual_Recognition_ICCV_2021_paper.pdf), Tianhao Li, Limin Wang, Gangshan Wu, ICCV 2021
 
 ## 2022
 * [LGD: Label-guided Self-distillation for Object Detection](https://arxiv.org/abs/2109.11496), Peizhen Zhang, Zijian Kang, Tong Yang, Xiangyu Zhang, Nanning Zheng, Jian Sun, AAAI 2022
