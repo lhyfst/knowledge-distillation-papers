@@ -70,6 +70,7 @@
 * [Contrastive Representation Distillation](https://arxiv.org/abs/1910.10699v2), Yonglong Tian, Dilip Krishnan, Phillip Isola, ICLR, 2020
 * [StyleGAN2 Distillation for Feed-forward Image Manipulation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670171.pdf), Yuri Viazovetskyi, Vladimir Ivashkin, and Evgeny Kashin, ECCV 2020
 * [Distilling Knowledge from Graph Convolutional Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Distilling_Knowledge_From_Graph_Convolutional_Networks_CVPR_2020_paper.pdf), Yiding Yang, Jiayan Qiu, Mingli Song, Dacheng Tao, Xinchao Wang, CVPR 2020
+* [Self-supervised Knowledge Distillation for Few-shot Learning](https://arxiv.org/abs/2006.09785), Jathushan Rajasegaran, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Mubarak Shah, 2020
 
 ## 2021
 * [Dataset Distillation with Infinitely Wide Convolutional Networks](https://openreview.net/forum?id=hXWPpJedrVP), Timothy Nguyen, Roman Novak, Lechao Xiao, Jaehoon Lee, 2021
