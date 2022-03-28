@@ -62,6 +62,7 @@
 - [Correlation Congruence for Knowledge Distillation](Correlation Congruence for Knowledge Distillation), Baoyun Peng, Xiao Jin, Jiaheng Liu, Shunfeng Zhou, Yichao Wu, Yu Liu, Dongsheng Li, Zhaoning Zhang, 2019
 - [Variational Information Distillation for Knowledge Transfer](https://arxiv.org/pdf/1904.05835.pdf), Sungsoo Ahn, Shell Xu Hu, Andreas Damianou, Neil D. Lawrence, Zhenwen Dai, 2019
 - [Knowledge Distillation via Instance Relationship Graph](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Knowledge_Distillation_via_Instance_Relationship_Graph_CVPR_2019_paper.pdf), Yufan Liu, Jiajiong Cao, Bing Lia, Chunfeng Yuan, Weiming Hua, Yangxi Lic, Yunqiang Duan, CVPR 2019
+- [Structured Knowledge Distillation for Semantic Segmentation](https://arxiv.org/pdf/1903.04197.pdf), Yifan Liu, Changyong Shu, Jingdong Wang, Chunhua Shen, CVPR 2019
 
 ## 2020
 * [Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion](https://arxiv.org/abs/1912.08795), Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz, 2020
