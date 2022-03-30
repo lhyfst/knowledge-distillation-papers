@@ -72,6 +72,7 @@
 * [StyleGAN2 Distillation for Feed-forward Image Manipulation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670171.pdf), Yuri Viazovetskyi, Vladimir Ivashkin, and Evgeny Kashin, ECCV 2020
 * [Distilling Knowledge from Graph Convolutional Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Distilling_Knowledge_From_Graph_Convolutional_Networks_CVPR_2020_paper.pdf), Yiding Yang, Jiayan Qiu, Mingli Song, Dacheng Tao, Xinchao Wang, CVPR 2020
 * [Self-supervised Knowledge Distillation for Few-shot Learning](https://arxiv.org/abs/2006.09785), Jathushan Rajasegaran, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Mubarak Shah, 2020
+* [Online Knowledge Distillation with Diverse Peers](https://arxiv.org/abs/1912.00350), Defang Chen, Jian-Ping Mei, Can Wang, Yan Feng and Chun Chen, AAAI, 2020
 
 ## 2021
 * [Dataset Distillation with Infinitely Wide Convolutional Networks](https://openreview.net/forum?id=hXWPpJedrVP), Timothy Nguyen, Roman Novak, Lechao Xiao, Jaehoon Lee, 2021
@@ -89,6 +90,7 @@
 * [On Self-Distilling Graph Neural Network](https://www.ijcai.org/proceedings/2021/0314.pdf), Yuzhao Chen, Yatao Bian, Xi Xiao, Yu Rong, Tingyang Xu, Junzhou Huang, IJCAI 2021
 * [Graph-Free Knowledge Distillation for Graph Neural Networks](https://www.ijcai.org/proceedings/2021/0320.pdf), Xiang Deng, Zhongfei Zhang, IJCAI 2021
 * [Self Supervision to Distillation for Long-Tailed Visual Recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Self_Supervision_to_Distillation_for_Long-Tailed_Visual_Recognition_ICCV_2021_paper.pdf), Tianhao Li, Limin Wang, Gangshan Wu, ICCV 2021
+* [Cross-Layer Distillation with Semantic Calibration](https://arxiv.org/abs/2012.03236), Defang Chen, Jian-Ping Mei, Yuan Zhang, Can Wang, Zhe Wang, Yan Feng, Chun Chen, AAAI 2021
 
 ## 2022
 * [LGD: Label-guided Self-distillation for Object Detection](https://arxiv.org/abs/2109.11496), Peizhen Zhang, Zijian Kang, Tong Yang, Xiangyu Zhang, Nanning Zheng, Jian Sun, AAAI 2022
@@ -101,6 +103,8 @@
 * [Decoupled Knowledge Distillation](https://arxiv.org/abs/2203.08679), Borui Zhao, Quan Cui, Renjie Song, Yiyu Qiu, Jiajun Liang, CVPR 2022
 * [Graph Flow: Cross-layer Graph Flow Distillation for Dual-Efficient Medical Image Segmentation](https://arxiv.org/abs/2203.08667), Wenxuan Zou, Muyi Sun, 2022
 * [Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932), George Cazenavette, Tongzhou Wang, Antonio Torralba, Alexei A. Efros, Jun-Yan Zhu, CVPR 2022
+* [Knowledge Distillation with the Reused Teacher Classifier](https://arxiv.org/abs/2203.14001), Defang Chen, Jian-Ping Mei, Hailin Zhang, Can Wang, Yan Feng, Chun Chen, CVPR 2022
+
 
 ## Relevant Papers
 
