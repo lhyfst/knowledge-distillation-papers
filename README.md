@@ -93,6 +93,7 @@
 * [Self Supervision to Distillation for Long-Tailed Visual Recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Self_Supervision_to_Distillation_for_Long-Tailed_Visual_Recognition_ICCV_2021_paper.pdf), Tianhao Li, Limin Wang, Gangshan Wu, ICCV 2021
 * [Cross-Layer Distillation with Semantic Calibration](https://arxiv.org/abs/2012.03236), Defang Chen, Jian-Ping Mei, Yuan Zhang, Can Wang, Zhe Wang, Yan Feng, Chun Chen, AAAI 2021
 * [Channel-wise Knowledge Distillation for Dense Prediction](https://arxiv.org/abs/2011.13256), Changyong Shu, Yifan Liu, Jianfei Gao, Zheng Yan, Chunhua Shen, ICCV 2021
+* [Training data-efficient image transformers & distillation through attention](https://icml.cc/virtual/2021/poster/8671), Hugo Touvron, Matthieu Cord, Douze Matthijs, Francisco Massa, Alexandre Sablayrolles, Herve Jegou, ICML 2021
 
 ## 2022
 * [LGD: Label-guided Self-distillation for Object Detection](https://arxiv.org/abs/2109.11496), Peizhen Zhang, Zijian Kang, Tong Yang, Xiangyu Zhang, Nanning Zheng, Jian Sun, AAAI 2022
@@ -107,6 +108,9 @@
 * [Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932), George Cazenavette, Tongzhou Wang, Antonio Torralba, Alexei A. Efros, Jun-Yan Zhu, CVPR 2022
 * [Knowledge Distillation with the Reused Teacher Classifier](https://arxiv.org/abs/2203.14001), Defang Chen, Jian-Ping Mei, Hailin Zhang, Can Wang, Yan Feng, Chun Chen, CVPR 2022
 * [Self-Distillation from the Last Mini-Batch for Consistency Regularization](https://arxiv.org/abs/2203.16172), Shen Yiqing, Xu Liwu, Yang Yuzhe, Li Yaqian and Guo Yandong, CVPR 2022 [code](https://github.com/dongkyuk/DLB-Pytorch)
+* [DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers](), Xianing Chen, Qiong Cao, Yujie Zhong, Shenghua Gao, CVPR 2022
+* [Fine-tuning Global Model via Data-Free Knowledge Distillation for Non-IID Federated Learning](https://arxiv.org/abs/2203.09249), Lin Zhang, Li Shen, Liang Ding, Dacheng Tao, Ling-Yu Duan, CVPR 2022
+* 
 
 
 ## Relevant Papers
