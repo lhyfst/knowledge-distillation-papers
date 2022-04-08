@@ -106,6 +106,7 @@
 * [Graph Flow: Cross-layer Graph Flow Distillation for Dual-Efficient Medical Image Segmentation](https://arxiv.org/abs/2203.08667), Wenxuan Zou, Muyi Sun, 2022
 * [Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932), George Cazenavette, Tongzhou Wang, Antonio Torralba, Alexei A. Efros, Jun-Yan Zhu, CVPR 2022
 * [Knowledge Distillation with the Reused Teacher Classifier](https://arxiv.org/abs/2203.14001), Defang Chen, Jian-Ping Mei, Hailin Zhang, Can Wang, Yan Feng, Chun Chen, CVPR 2022
+* [Self-Distillation from the Last Mini-Batch for Consistency Regularization](https://arxiv.org/abs/2203.16172), Shen Yiqing, Xu Liwu, Yang Yuzhe, Li Yaqian and Guo Yandong, CVPR 2022 [code](https://github.com/dongkyuk/DLB-Pytorch)
 
 
 ## Relevant Papers
