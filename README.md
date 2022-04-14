@@ -74,6 +74,8 @@
 * [Self-supervised Knowledge Distillation for Few-shot Learning](https://arxiv.org/abs/2006.09785), Jathushan Rajasegaran, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Mubarak Shah, 2020, [code](https://github.com/brjathu/SKD)
 * [Online Knowledge Distillation with Diverse Peers](https://arxiv.org/abs/1912.00350), Defang Chen, Jian-Ping Mei, Can Wang, Yan Feng and Chun Chen, AAAI, 2020
 * [Intra-class Feature Variation Distillation for Semantic Segmentation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520341.pdf), Yukang Wang, Wei Zhou, Tao Jiang, Xiang Bai, and Yongchao Xu, ECCV 2020
+* [Exclusivity-Consistency Regularized Knowledge Distillation for Face Recognition](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690324.pdf), Xiaobo Wang, Tianyu Fu, Shengcai Liao, Shuo Wang, Zhen Lei, and Tao Mei, ECCV 2020
+* [Improving Face Recognition from Hard Samples via Distribution Distillation Loss](https://arxiv.org/abs/2002.03662), Yuge Huang, Pengcheng Shen, Ying Tai, Shaoxin Li, Xiaoming Liu, Jilin Li, Feiyue Huang, Rongrong Ji, ECCV 2020
 
 ## 2021
 * [Dataset Distillation with Infinitely Wide Convolutional Networks](https://openreview.net/forum?id=hXWPpJedrVP), Timothy Nguyen, Roman Novak, Lechao Xiao, Jaehoon Lee, 2021
