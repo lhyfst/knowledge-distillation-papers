@@ -112,6 +112,7 @@
 * [Self-Distillation from the Last Mini-Batch for Consistency Regularization](https://arxiv.org/abs/2203.16172), Shen Yiqing, Xu Liwu, Yang Yuzhe, Li Yaqian and Guo Yandong, CVPR 2022 [code](https://github.com/dongkyuk/DLB-Pytorch)
 * [DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers](), Xianing Chen, Qiong Cao, Yujie Zhong, Shenghua Gao, CVPR 2022
 * [Fine-tuning Global Model via Data-Free Knowledge Distillation for Non-IID Federated Learning](https://arxiv.org/abs/2203.09249), Lin Zhang, Li Shen, Liang Ding, Dacheng Tao, Ling-Yu Duan, CVPR 2022
+* [LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection](https://arxiv.org/abs/2203.14956), Yi Wei, Zibu Wei, Yongming Rao, Jiaxin Li, Jiwen Lu, Jie Zhou, 2022
 
 
 
