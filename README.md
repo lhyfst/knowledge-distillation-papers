@@ -36,6 +36,25 @@
 * [MSD: Multi-Self-Distillation Learning via Multi-classifiers within Deep Neural Networks](https://arxiv.org/abs/1911.09418), Yunteng Luan, Hanyu Zhao, Zhi Yang, Yafei Dai, 2019
 * [Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation](https://arxiv.org/abs/1905.08094), Linfeng Zhang, Jiebo Song, Anni Gao, Jingwei Chen, Chenglong Bao, Kaisheng Ma, 2019 
 
+
+## 2016
+* [Cross Modal Distillation for Supervision Transfer](https://people.eecs.berkeley.edu/~jhoffman/papers/Gupta_CVPR16.pdf), Saurabh Gupta, Judy Hoffman, Jitendra Malik, CVPR 2016
+* [Deep Model Compression: Distilling Knowledge from Noisy Teachers](https://arxiv.org/pdf/1610.09650), Bharat Bhusan Sau, Vineeth N. Balasubramanian, 2016
+* [Knowledge Distillation for Small-footprint Highway Networks](https://arxiv.org/pdf/1608.00892), Liang Lu, Michelle Guo, Steve Renals, 2016
+* [Sequence-Level Knowledge Distillation](https://arxiv.org/pdf/1606.07947), [deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/seq-knowledge-distillation.md), Yoon Kim, Alexander M. Rush, 2016
+* [Recurrent Neural Network Training with Dark Knowledge Transfer](https://arxiv.org/pdf/1505.04630.pdf), Zhiyuan Tang, Dong Wang, Zhiyong Zhang, 2016
+* [Face Model Compression by Distilling Knowledge from Neurons](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11977/12130), Ping Luo, Zhenyao Zhu, Ziwei Liu, Xiaogang Wang, and Xiaoou Tang, 2016
+
+## 2017
+
+* [Data Distillation: Towards Omni-Supervised Learning](https://arxiv.org/pdf/1712.04440), Ilija Radosavovic, Piotr Dollár, Ross Girshick, Georgia Gkioxari, Kaiming He, CVPR 2017
+* [Knowledge Projection for Deep Neural Networks](https://arxiv.org/pdf/1710.09505), Zhi Zhang, Guanghan Ning, Zhihai He, 2017
+* [Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/pdf/1707.01219), Zehao Huang, Naiyan Wang, 2017
+* [Data-Free Knowledge Distillation For Deep Neural Networks](http://raphagl.com/research/replayed-distillation/), Raphael Gontijo Lopes, Stefano Fenu, 2017 
+* [DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://arxiv.org/pdf/1707.01220), Yuntao Chen, Naiyan Wang, Zhaoxiang Zhang, 2017
+* [Adapting Models to Signal Degradation using Distillation](https://arxiv.org/pdf/1604.00433.pdf), Jong-Chyi Su, Subhransu Maji, BMVC 2017
+
+
 ## 2018
 
 * [Learning Global Additive Explanations for Neural Nets Using Model Distillation](https://arxiv.org/pdf/1801.08640.pdf), Sarah Tan, Rich Caruana, Giles Hooker, Paul Koch, Albert Gordo, 2018
@@ -113,21 +132,9 @@
 * [DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers](), Xianing Chen, Qiong Cao, Yujie Zhong, Shenghua Gao, CVPR 2022
 * [Fine-tuning Global Model via Data-Free Knowledge Distillation for Non-IID Federated Learning](https://arxiv.org/abs/2203.09249), Lin Zhang, Li Shen, Liang Ding, Dacheng Tao, Ling-Yu Duan, CVPR 2022
 * [LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection](https://arxiv.org/abs/2203.14956), Yi Wei, Zibu Wei, Yongming Rao, Jiaxin Li, Jiwen Lu, Jie Zhou, 2022
+* [Localization Distillation for Dense Object Detection](https://arxiv.org/abs/2102.12252), Zhaohui Zheng, Rongguang Ye, Ping Wang, Dongwei Ren, Wangmeng Zuo, Qibin Hou, Ming-Ming Cheng, CVPR 2022, [code](https://github.com/HikariTJU/LD)
+* [Localization Distillation for Object Detection](https://arxiv.org/abs/2204.05957), Zhaohui Zheng, Rongguang Ye, Qibin Hou, Dongwei Ren, Ping Wang, Wangmeng Zuo, Ming-Ming Cheng, 2022, [code](https://github.com/Zzh-tju/Rotated-LD)
 
 
 
-## Relevant Papers
 
-* [Learning Efficient Object Detection Models with Knowledge Distillation](https://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation.pdf), Guobin Chen, Wongun Choi, Xiang Yu, Tony Han, Manmohan Chandraker, NIPS 2017
-* [Data Distillation: Towards Omni-Supervised Learning](https://arxiv.org/pdf/1712.04440), Ilija Radosavovic, Piotr Dollár, Ross Girshick, Georgia Gkioxari, Kaiming He, CVPR 2017
-* [Cross Modal Distillation for Supervision Transfer](https://people.eecs.berkeley.edu/~jhoffman/papers/Gupta_CVPR16.pdf), Saurabh Gupta, Judy Hoffman, Jitendra Malik, CVPR 2016
-* [Knowledge Projection for Deep Neural Networks](https://arxiv.org/pdf/1710.09505), Zhi Zhang, Guanghan Ning, Zhihai He, 2017
-* [Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/pdf/1707.01219), Zehao Huang, Naiyan Wang, 2017
-* [Deep Model Compression: Distilling Knowledge from Noisy Teachers](https://arxiv.org/pdf/1610.09650), Bharat Bhusan Sau, Vineeth N. Balasubramanian, 2016
-* [Knowledge Distillation for Small-footprint Highway Networks](https://arxiv.org/pdf/1608.00892), Liang Lu, Michelle Guo, Steve Renals, 2016
-* [Sequence-Level Knowledge Distillation](https://arxiv.org/pdf/1606.07947), [deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/seq-knowledge-distillation.md), Yoon Kim, Alexander M. Rush, 2016
-* [Recurrent Neural Network Training with Dark Knowledge Transfer](https://arxiv.org/pdf/1505.04630.pdf), Zhiyuan Tang, Dong Wang, Zhiyong Zhang, 2016
-* [Data-Free Knowledge Distillation For Deep Neural Networks](http://raphagl.com/research/replayed-distillation/), Raphael Gontijo Lopes, Stefano Fenu, 2017 
-* [DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://arxiv.org/pdf/1707.01220), Yuntao Chen, Naiyan Wang, Zhaoxiang Zhang, 2017
-* [Face Model Compression by Distilling Knowledge from Neurons](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11977/12130), Ping Luo, Zhenyao Zhu, Ziwei Liu, Xiaogang Wang, and Xiaoou Tang, 2016
-* [Adapting Models to Signal Degradation using Distillation](https://arxiv.org/pdf/1604.00433.pdf), Jong-Chyi Su, Subhransu Maji, BMVC 2017
