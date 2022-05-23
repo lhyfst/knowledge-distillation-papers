@@ -135,6 +135,8 @@
 * [Localization Distillation for Dense Object Detection](https://arxiv.org/abs/2102.12252), Zhaohui Zheng, Rongguang Ye, Ping Wang, Dongwei Ren, Wangmeng Zuo, Qibin Hou, Ming-Ming Cheng, CVPR 2022, [code](https://github.com/HikariTJU/LD)
 * [Localization Distillation for Object Detection](https://arxiv.org/abs/2204.05957), Zhaohui Zheng, Rongguang Ye, Qibin Hou, Dongwei Ren, Ping Wang, Wangmeng Zuo, Ming-Ming Cheng, 2022, [code](https://github.com/Zzh-tju/Rotated-LD)
 * [Cross-Image Relational Knowledge Distillation for Semantic Segmentation](https://arxiv.org/abs/2204.06986), Chuanguang Yang, Helong Zhou, Zhulin An, Xue Jiang, Yongjun Xu, Qian Zhang, CVPR 2022, [code](https://github.com/winycg/CIRKD)
+* [Knowledge distillation: A good teacher is patient and consistent](https://arxiv.org/abs/2106.05237), Lucas Beyer, Xiaohua Zhai, Amélie Royer, Larisa Markeeva, Rohan Anil, Alexander Kolesnikov, CVPR 2022
+* [Spot-adaptive Knowledge Distillation](https://arxiv.org/abs/2205.02399), Jie Song, Ying Chen, Jingwen Ye, Mingli Song, TIP 2022, [code](https://github.com/zju-vipa/spot-adaptive-pytorch)
 
 
 
