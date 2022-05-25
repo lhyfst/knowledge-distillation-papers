@@ -137,6 +137,7 @@
 * [Cross-Image Relational Knowledge Distillation for Semantic Segmentation](https://arxiv.org/abs/2204.06986), Chuanguang Yang, Helong Zhou, Zhulin An, Xue Jiang, Yongjun Xu, Qian Zhang, CVPR 2022, [code](https://github.com/winycg/CIRKD)
 * [Knowledge distillation: A good teacher is patient and consistent](https://arxiv.org/abs/2106.05237), Lucas Beyer, Xiaohua Zhai, Amélie Royer, Larisa Markeeva, Rohan Anil, Alexander Kolesnikov, CVPR 2022
 * [Spot-adaptive Knowledge Distillation](https://arxiv.org/abs/2205.02399), Jie Song, Ying Chen, Jingwen Ye, Mingli Song, TIP 2022, [code](https://github.com/zju-vipa/spot-adaptive-pytorch)
+* [MSDN: Mutually Semantic Distillation Network for Zero-Shot Learning], Shiming Chen, Ziming Hong, Guo-Sen Xie, Wenhan Yang, Qinmu Peng, Kai Wang, Jian Zhao, Xinge You, CVPR 2022
 
 
 
