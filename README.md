@@ -138,6 +138,9 @@
 * [Knowledge distillation: A good teacher is patient and consistent](https://arxiv.org/abs/2106.05237), Lucas Beyer, Xiaohua Zhai, Amélie Royer, Larisa Markeeva, Rohan Anil, Alexander Kolesnikov, CVPR 2022
 * [Spot-adaptive Knowledge Distillation](https://arxiv.org/abs/2205.02399), Jie Song, Ying Chen, Jingwen Ye, Mingli Song, TIP 2022, [code](https://github.com/zju-vipa/spot-adaptive-pytorch)
 * [MSDN: Mutually Semantic Distillation Network for Zero-Shot Learning](https://arxiv.org/abs/2203.03137), Shiming Chen, Ziming Hong, Guo-Sen Xie, Wenhan Yang, Qinmu Peng, Kai Wang, Jian Zhao, Xinge You, CVPR 2022
+* [Knowledge Distillation via the Target-aware Transformer](https://arxiv.org/abs/2205.10793), Sihao Lin, Hongwei Xie, Bing Wang, Kaicheng Yu, Xiaojun Chang, Xiaodan Liang, Gang Wang, CVPR 2022
+* [PointDistiller: Structured Knowledge Distillation Towards Efficient and Compact 3D Detection](https://arxiv.org/abs/2205.11098), Linfeng Zhang, Runpei Dong, Hung-Shuo Tai, Kaisheng Ma, arxiv 2022, [code](https://github.com/RunpeiDong/PointDistiller)
+* [Wavelet Knowledge Distillation: Towards Efficient Image-to-Image Translation](https://arxiv.org/abs/2203.06321), Linfeng Zhang, Xin Chen, Xiaobing Tu, Pengfei Wan, Ning Xu, Kaisheng Ma, CVPR 2022
 
 
 
