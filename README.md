@@ -73,7 +73,7 @@
 * [Dataset Distillation](https://arxiv.org/pdf/1811.10959.pdf), Tongzhou Wang, Jun-Yan Zhu, Antonio Torralba, Alexei A. Efros, 2019
 * [Relational Knowledge Distillation](https://arxiv.org/abs/1904.05068), Wonpyo Park, Dongju Kim, Yan Lu, Minsu Cho, 2019
 * [Knowledge Adaptation for Efficient Semantic Segmentation](https://arxiv.org/abs/1903.04688), Tong He, Chunhua Shen, Zhi Tian, Dong Gong, Changming Sun, Youliang Yan, 2019
-* [A Comprehensive Overhaul of Feature Distillation](https://arxiv.org/abs/1904.01866), Byeongho Heo, Jeesoo Kim, Sangdoo Yun, Hyojin Park, Nojun Kwak, Jin Young Choi, 2019
+* [A Comprehensive Overhaul of Feature Distillation](https://arxiv.org/abs/1904.01866), Byeongho Heo, Jeesoo Kim, Sangdoo Yun, Hyojin Park, Nojun Kwak, Jin Young Choi, 2019, [code](https://github.com/clovaai/overhaul-distillation)
 * [Towards Understanding Knowledge Distillation](http://arxiv.org/abs/2002.03532), Mary Phuong, Christoph Lampert, ICML, 2019
 - [Knowledge Distillation from Internal Representations](https://arxiv.org/abs/1910.03723), Gustavo Aguilar, Yuan Ling, Yu Zhang, Benjamin Yao, Xing Fan, Edward Guo, 2019
 - [Knowledge Flow: Improve Upon Your Teachers](https://arxiv.org/abs/1904.05878), Iou-Jen Liu, Jian Peng, Alexander G. Schwing, 2019
@@ -87,7 +87,7 @@
 * [Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion](https://arxiv.org/abs/1912.08795), Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz, 2020
 * [Reducing the Teacher-Student Gap via Spherical Knowledge Disitllation](https://arxiv.org/abs/2010.07485), Jia Guo, Minghao Chen, Yao Hu, Chen Zhu, Xiaofei He, Deng Cai, 2020
 * [Data-Free Adversarial Distillation](https://arxiv.org/pdf/1912.11006.pdf), Gongfan Fang, Jie Song, Chengchao Shen, Xinchao Wang, Da Chen, Mingli Song, 2020
-* [Contrastive Representation Distillation](https://arxiv.org/abs/1910.10699v2), Yonglong Tian, Dilip Krishnan, Phillip Isola, ICLR, 2020
+* [Contrastive Representation Distillation](https://arxiv.org/abs/1910.10699v2), Yonglong Tian, Dilip Krishnan, Phillip Isola, ICLR 2020, [code](https://github.com/HobbitLong/RepDistiller)
 * [StyleGAN2 Distillation for Feed-forward Image Manipulation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670171.pdf), Yuri Viazovetskyi, Vladimir Ivashkin, and Evgeny Kashin, ECCV 2020
 * [Distilling Knowledge from Graph Convolutional Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Distilling_Knowledge_From_Graph_Convolutional_Networks_CVPR_2020_paper.pdf), Yiding Yang, Jiayan Qiu, Mingli Song, Dacheng Tao, Xinchao Wang, CVPR 2020
 * [Self-supervised Knowledge Distillation for Few-shot Learning](https://arxiv.org/abs/2006.09785), Jathushan Rajasegaran, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Mubarak Shah, 2020, [code](https://github.com/brjathu/SKD)
@@ -115,6 +115,8 @@
 * [Cross-Layer Distillation with Semantic Calibration](https://arxiv.org/abs/2012.03236), Defang Chen, Jian-Ping Mei, Yuan Zhang, Can Wang, Zhe Wang, Yan Feng, Chun Chen, AAAI 2021
 * [Channel-wise Knowledge Distillation for Dense Prediction](https://arxiv.org/abs/2011.13256), Changyong Shu, Yifan Liu, Jianfei Gao, Zheng Yan, Chunhua Shen, ICCV 2021
 * [Training data-efficient image transformers & distillation through attention](https://icml.cc/virtual/2021/poster/8671), Hugo Touvron, Matthieu Cord, Douze Matthijs, Francisco Massa, Alexandre Sablayrolles, Herve Jegou, ICML 2021
+* [Exploring Inter-Channel Correlation for Diversity-preserved Knowledge Distillation](https://arxiv.org/abs/2202.03680), Li Liu, Qingle Huang, Sihao Lin, Hongwei Xie, Bing Wang, Xiaojun Chang, Xiaodan Liang, ICCV 2021, [code](https://github.com/ADLab-AutoDrive/ICKD)
+* [torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation](https://arxiv.org/abs/2011.12913), Yoshitomo Matsubara, International Workshop on Reproducible Research in Pattern Recognition 2021, [code](https://github.com/yoshitomo-matsubara/torchdistill)
 
 ## 2022
 * [LGD: Label-guided Self-distillation for Object Detection](https://arxiv.org/abs/2109.11496), Peizhen Zhang, Zijian Kang, Tong Yang, Xiangyu Zhang, Nanning Zheng, Jian Sun, AAAI 2022
