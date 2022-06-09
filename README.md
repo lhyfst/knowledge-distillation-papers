@@ -144,6 +144,7 @@
 * [PointDistiller: Structured Knowledge Distillation Towards Efficient and Compact 3D Detection](https://arxiv.org/abs/2205.11098), Linfeng Zhang, Runpei Dong, Hung-Shuo Tai, Kaisheng Ma, arxiv 2022, [code](https://github.com/RunpeiDong/PointDistiller)
 * [Wavelet Knowledge Distillation: Towards Efficient Image-to-Image Translation](https://arxiv.org/abs/2203.06321), Linfeng Zhang, Xin Chen, Xiaobing Tu, Pengfei Wan, Ning Xu, Kaisheng Ma, CVPR 2022
 * [Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation](https://arxiv.org/abs/2205.14141), Yixuan Wei, Han Hu, Zhenda Xie, Zheng Zhang, Yue Cao, Jianmin Bao, Dong Chen, Baining Guo, Tech Report 2022, [code](https://github.com/SwinTransformer/Feature-Distillation)
+* [Knowledge Distillation via the Target-aware Transformer](https://arxiv.org/abs/2205.10793), Sihao Lin, Hongwei Xie, Bing Wang, Kaicheng Yu, Xiaojun Chang, Xiaodan Liang, Gang Wang, CVPR 2022
 
 
 
