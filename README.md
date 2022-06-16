@@ -145,6 +145,7 @@
 * [Wavelet Knowledge Distillation: Towards Efficient Image-to-Image Translation](https://arxiv.org/abs/2203.06321), Linfeng Zhang, Xin Chen, Xiaobing Tu, Pengfei Wan, Ning Xu, Kaisheng Ma, CVPR 2022
 * [Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation](https://arxiv.org/abs/2205.14141), Yixuan Wei, Han Hu, Zhenda Xie, Zheng Zhang, Yue Cao, Jianmin Bao, Dong Chen, Baining Guo, Tech Report 2022, [code](https://github.com/SwinTransformer/Feature-Distillation)
 * [Knowledge Distillation via the Target-aware Transformer](https://arxiv.org/abs/2205.10793), Sihao Lin, Hongwei Xie, Bing Wang, Kaicheng Yu, Xiaojun Chang, Xiaodan Liang, Gang Wang, CVPR 2022
+* [BERT Learns to Teach: Knowledge Distillation with Meta Learning](https://arxiv.org/abs/2106.04570), Wangchunshu Zhou, Canwen Xu, Julian McAuley, ACL 2022, [code](https://github.com/JetRunner/MetaDistil)
 
 
 
