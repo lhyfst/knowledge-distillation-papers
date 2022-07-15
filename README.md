@@ -147,6 +147,8 @@
 * [Knowledge Distillation via the Target-aware Transformer](https://arxiv.org/abs/2205.10793), Sihao Lin, Hongwei Xie, Bing Wang, Kaicheng Yu, Xiaojun Chang, Xiaodan Liang, Gang Wang, CVPR 2022
 * [BERT Learns to Teach: Knowledge Distillation with Meta Learning](https://arxiv.org/abs/2106.04570), Wangchunshu Zhou, Canwen Xu, Julian McAuley, ACL 2022, [code](https://github.com/JetRunner/MetaDistil)
 * [Nearest Neighbor Knowledge Distillation for Neural Machine Translation](https://arxiv.org/abs/2205.00479), Zhixian Yang, Renliang Sun, Xiaojun Wan, NAACL 2022
+* [Knowledge Condensation Distillation](https://arxiv.org/abs/2207.05409), Chenxin Li, Mingbao Lin, Zhiyuan Ding, Nie Lin, Yihong Zhuang, Yue Huang, Xinghao Ding, Liujuan Cao, ECCV 2022, [code](https://github.com/dzy3/KCD)
+* [Masked Generative Distillation](https://arxiv.org/abs/2205.01529), Zhendong Yang, Zhe Li, Mingqi Shao, Dachuan Shi, Zehuan Yuan, Chun Yuan, ECCV 2022, [code](https://github.com/yzd-v/MGD)
 
 
 
