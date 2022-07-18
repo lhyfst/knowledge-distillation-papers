@@ -150,7 +150,7 @@
 * [Knowledge Condensation Distillation](https://arxiv.org/abs/2207.05409), Chenxin Li, Mingbao Lin, Zhiyuan Ding, Nie Lin, Yihong Zhuang, Yue Huang, Xinghao Ding, Liujuan Cao, ECCV 2022, [code](https://github.com/dzy3/KCD)
 * [Masked Generative Distillation](https://arxiv.org/abs/2205.01529), Zhendong Yang, Zhe Li, Mingqi Shao, Dachuan Shi, Zehuan Yuan, Chun Yuan, ECCV 2022, [code](https://github.com/yzd-v/MGD)
 * [DTG-SSOD: Dense Teacher Guidance for Semi-Supervised Object Detection](https://arxiv.org/abs/2207.05536), Gang Li, Xiang Li, Yujie Wang, Yichao Wu, Ding Liang, Shanshan Zhang
-
+* [Distilled Dual-Encoder Model for Vision-Language Understanding](https://arxiv.org/abs/2112.08723), Zekun Wang, Wenhui Wang, Haichao Zhu, Ming Liu, Bing Qin, Furu Wei, [code](https://github.com/kugwzk/Distilled-DualEncoder)
 
 
 
