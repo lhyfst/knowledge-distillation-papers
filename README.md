@@ -152,6 +152,8 @@
 * [DTG-SSOD: Dense Teacher Guidance for Semi-Supervised Object Detection](https://arxiv.org/abs/2207.05536), Gang Li, Xiang Li, Yujie Wang, Yichao Wu, Ding Liang, Shanshan Zhang
 * [Distilled Dual-Encoder Model for Vision-Language Understanding](https://arxiv.org/abs/2112.08723), Zekun Wang, Wenhui Wang, Haichao Zhu, Ming Liu, Bing Qin, Furu Wei, [code](https://github.com/kugwzk/Distilled-DualEncoder)
 * [Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection](https://arxiv.org/abs/2207.02541), Hongyu Zhou, Zheng Ge, Songtao Liu, Weixin Mao, Zeming Li, Haiyan Yu, Jian Sun, [code](https://github.com/Megvii-BaseDetection/DenseTeacher)
-
+* [Learning Efficient Vision Transformers via Fine-Grained Manifold Distillation](https://arxiv.org/abs/2107.01378), Zhiwei Hao, Jianyuan Guo, Ding Jia, Kai Han, Yehui Tang, Chao Zhang, Han Hu, Yunhe Wang
+* [TinyViT: Fast Pretraining Distillation for Small Vision Transformers](), Zhiwei Hao, Jianyuan Guo, Ding Jia, Kai Han, Yehui Tang, Chao Zhang, Han Hu, Yunhe Wang, ECCV 2022
+* [Self-slimmed Vision Transformer](https://arxiv.org/abs/2111.12624), Zhuofan Zong, Kunchang Li, Guanglu Song, Yali Wang, Yu Qiao, Biao Leng, Yu Liu, ICLR 2022
 
 
