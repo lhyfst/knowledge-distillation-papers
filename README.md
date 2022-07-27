@@ -156,4 +156,4 @@
 * [TinyViT: Fast Pretraining Distillation for Small Vision Transformers](), Zhiwei Hao, Jianyuan Guo, Ding Jia, Kai Han, Yehui Tang, Chao Zhang, Han Hu, Yunhe Wang, ECCV 2022
 * [Self-slimmed Vision Transformer](https://arxiv.org/abs/2111.12624), Zhuofan Zong, Kunchang Li, Guanglu Song, Yali Wang, Yu Qiao, Biao Leng, Yu Liu, ICLR 2022
 * [KD-MVS: Knowledge Distillation Based Self-supervised Learning for MVS](https://arxiv.org/abs/2207.10425), Yikang Ding, Qingtian Zhu, Xiangyue Liu, Wentao Yuan, Haotian Zhang, CHi Zhang, ECCV 2022, [code](https://github.com/megvii-research/kd-mvs)
-
+* [Rethinking Data Augmentation for Robust Visual Question Answering](https://arxiv.org/abs/2207.08739), Long Chen, Yuhang Zheng, Jun Xiao, ECCV 2022, [code](https://github.com/ItemZheng/KDDAug)
