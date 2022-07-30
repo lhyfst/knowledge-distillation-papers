@@ -158,3 +158,5 @@
 * [KD-MVS: Knowledge Distillation Based Self-supervised Learning for MVS](https://arxiv.org/abs/2207.10425), Yikang Ding, Qingtian Zhu, Xiangyue Liu, Wentao Yuan, Haotian Zhang, CHi Zhang, ECCV 2022, [code](https://github.com/megvii-research/kd-mvs)
 * [Rethinking Data Augmentation for Robust Visual Question Answering](https://arxiv.org/abs/2207.08739), Long Chen, Yuhang Zheng, Jun Xiao, ECCV 2022, [code](https://github.com/ItemZheng/KDDAug)
 * [ERNIE-Search: Bridging Cross-Encoder with Dual-Encoder via Self On-the-fly Distillation for Dense Passage Retrieval](https://arxiv.org/abs/2205.09153), Yuxiang Lu, Yiding Liu, Jiaxiang Liu, Yunsheng Shi, Zhengjie Huang, Shikun Feng Yu Sun, Hao Tian, Hua Wu, Shuaiqiang Wang, Dawei Yin, Haifeng Wang
+* [Prune Your Model Before Distill It](https://arxiv.org/abs/2109.14960), Jinhyuk Park, Albert No, ECCV 2022, [code](https://github.com/ososos888/prune-then-distill)
+* [Efficient One Pass Self-distillation with Zipf's Label Smoothing](https://arxiv.org/abs/2207.12980), Jiajun Liang, Linze Li, Zhaodong Bing, Borui Zhao, Yao Tang, Bo Lin, Haoqiang Fan, ECCV 2022, [code](https://github.com/megvii-research/zipfls)
