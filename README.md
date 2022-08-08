@@ -161,3 +161,4 @@
 * [Prune Your Model Before Distill It](https://arxiv.org/abs/2109.14960), Jinhyuk Park, Albert No, ECCV 2022, [code](https://github.com/ososos888/prune-then-distill)
 * [Efficient One Pass Self-distillation with Zipf's Label Smoothing](https://arxiv.org/abs/2207.12980), Jiajun Liang, Linze Li, Zhaodong Bing, Borui Zhao, Yao Tang, Bo Lin, Haoqiang Fan, ECCV 2022, [code](https://github.com/megvii-research/zipfls)
 * [R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](https://arxiv.org/abs/2203.17261), ECCV 2022, [code](https://github.com/snap-research/R2L)
+* [D3Former: Debiased Dual Distilled Transformer for Incremental Learning](https://arxiv.org/abs/2208.00777), Abdelrahman Mohamed, Rushali Grandhe, KJ Joseph, Salman Khan, Fahad Khan, [code](https://github.com/abdohelmy/D-3Former)
