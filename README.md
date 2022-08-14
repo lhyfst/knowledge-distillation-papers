@@ -163,3 +163,5 @@
 * [R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](https://arxiv.org/abs/2203.17261), ECCV 2022, [code](https://github.com/snap-research/R2L)
 * [D3Former: Debiased Dual Distilled Transformer for Incremental Learning](https://arxiv.org/abs/2208.00777), Abdelrahman Mohamed, Rushali Grandhe, KJ Joseph, Salman Khan, Fahad Khan, [code](https://github.com/abdohelmy/D-3Former)
 * [SdAE: Self-distillated Masked Autoencoder](https://arxiv.org/abs/2208.00449), Yabo Chen, Yuchen Liu, Dongsheng Jiang, Xiaopeng Zhang, Wenrui Dai, Hongkai Xiong, Qi Tian, ECCV 2022, [code](https://github.com/AbrahamYabo/SdAE)
+* [Masked Generative Distillation](https://arxiv.org/abs/2205.01529), Zhendong Yang, Zhe Li, Mingqi Shao, Dachuan Shi, Zehuan Yuan, Chun Yuan, ECCV 2022, [code](https://github.com/yzd-v/MGD)
+* [MixSKD: Self-Knowledge Distillation from Mixup for Image Recognition](https://arxiv.org/abs/2208.05768), Chuanguang Yang, Zhulin An, Helong Zhou, Linhang Cai, Xiang Zhi, Jiwen Wu, Yongjun Xu, Qian Zhang, ECCV 2022, [code](https://github.com/winycg/Self-KD-Lib)
