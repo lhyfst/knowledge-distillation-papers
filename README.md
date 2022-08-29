@@ -166,3 +166,4 @@
 * [Masked Generative Distillation](https://arxiv.org/abs/2205.01529), Zhendong Yang, Zhe Li, Mingqi Shao, Dachuan Shi, Zehuan Yuan, Chun Yuan, ECCV 2022, [code](https://github.com/yzd-v/MGD)
 * [MixSKD: Self-Knowledge Distillation from Mixup for Image Recognition](https://arxiv.org/abs/2208.05768), Chuanguang Yang, Zhulin An, Helong Zhou, Linhang Cai, Xiang Zhi, Jiwen Wu, Yongjun Xu, Qian Zhang, ECCV 2022, [code](https://github.com/winycg/Self-KD-Lib)
 * [Mind the Gap in Distilling StyleGANs](https://arxiv.org/abs/2208.08840), Guodong Xu, Yuenan Hou, Ziwei Liu, Chen Change Loy, ECCV 2022, [code](https://github.com/xuguodong03/StyleKD)
+* [Prune Your Model Before Distill It](https://arxiv.org/pdf/2109.14960.pdf), Jinhyuk Park and Albert No, ECCV 2022, [code](https://github.com/ososos888/prune-then-distill)
