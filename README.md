@@ -168,3 +168,4 @@
 * [Mind the Gap in Distilling StyleGANs](https://arxiv.org/abs/2208.08840), Guodong Xu, Yuenan Hou, Ziwei Liu, Chen Change Loy, ECCV 2022, [code](https://github.com/xuguodong03/StyleKD)
 * [Prune Your Model Before Distill It](https://arxiv.org/pdf/2109.14960.pdf), Jinhyuk Park and Albert No, ECCV 2022, [code](https://github.com/ososos888/prune-then-distill)
 * [HIRE: Distilling high-order relational knowledge from heterogeneous graph neural networks](https://arxiv.org/abs/2207.11887), Jing Liu, Tongya Zheng, Qinfen Hao, Neurocomputing
+* [A Fast Knowledge Distillation Framework for Visual Recognition](https://arxiv.org/abs/2112.01528), Zhiqiang Shen, Eric Xing, ECCV 2022, [code](https://github.com/szq0214/FKD)
