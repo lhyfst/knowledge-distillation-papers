@@ -170,3 +170,5 @@
 * [HIRE: Distilling high-order relational knowledge from heterogeneous graph neural networks](https://arxiv.org/abs/2207.11887), Jing Liu, Tongya Zheng, Qinfen Hao, Neurocomputing
 * [A Fast Knowledge Distillation Framework for Visual Recognition](https://arxiv.org/abs/2112.01528), Zhiqiang Shen, Eric Xing, ECCV 2022, [code](https://github.com/szq0214/FKD)
 * [Knowledge Distillation from A Stronger Teacher](https://arxiv.org/abs/2205.10536), Tao Huang, Shan You, Fei Wang, Chen Qian, Chang Xu, NeurIPS 2022, [code](https://github.com/hunto/DIST_KD)
+* [ALADIN: Distilling Fine-grained Alignment Scores for Efficient Image-Text Matching and Retrieval](https://arxiv.org/abs/2207.14757), Nicola Messina, Matteo Stefanini, Marcella Cornia, Lorenzo Baraldi, Fabrizio Falchi, Giuseppe Amato, Rita Cucchiara, CBMI 2022, [code](https://github.com/mesnico/ALADIN)
+* [Towards Efficient 3D Object Detection with Knowledge Distillation](https://arxiv.org/abs/2205.15156), Jihan Yang, Shaoshuai Shi, Runyu Ding, Zhe Wang, Xiaojuan Qi, NeurlPS 2022
