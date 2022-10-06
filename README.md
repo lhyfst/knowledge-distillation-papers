@@ -86,7 +86,7 @@
 * [Knowledge Distillation via Instance Relationship Graph](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Knowledge_Distillation_via_Instance_Relationship_Graph_CVPR_2019_paper.pdf), Yufan Liu, Jiajiong Cao, Bing Lia, Chunfeng Yuan, Weiming Hua, Yangxi Lic, Yunqiang Duan, CVPR 2019
 * [Structured Knowledge Distillation for Semantic Segmentation](https://arxiv.org/pdf/1903.04197.pdf), Yifan Liu, Changyong Shu, Jingdong Wang, Chunhua Shen, CVPR 2019
 * [Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention](https://aclanthology.org/P19-1305/), Xiangyu Duan, Mingming Yin, Min Zhang, Boxing Chen, Weihua Luo, ACL 2019, [code](https://github.com/KelleyYin/Cross-lingual-Summarization)
-* [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/abs/1903.12136), Raphael Tang, Yao Lu, Linqing Liu, Lili Mou, Olga Vechtomova, Jimmy Lin, Arxiv, 2019
+* [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/abs/1903.12136), Raphael Tang, Yao Lu, Linqing Liu, Lili Mou, Olga Vechtomova, Jimmy Lin, arXiv, 2019
 * [Multilingual Neural Machine Translation with Knowledge Distillation](https://arxiv.org/abs/1902.10461), Xu Tan, Yi Ren, Di He, Tao Qin, Zhou Zhao, Tie-Yan Liu, ICLR 2019
 * [BAM! Born-Again Multi-Task Networks for Natural Language Understanding](https://arxiv.org/abs/1907.04829), Kevin Clark, Minh-Thang Luong, Urvashi Khandelwal, Christopher D. Manning, Quoc V. Le, ACL 2019
 * [Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding](https://arxiv.org/abs/1904.09482), Xiaodong Liu, Pengcheng He, Weizhu Chen, Jianfeng Gao, arXiv 2019
@@ -152,7 +152,7 @@
 * [Spot-adaptive Knowledge Distillation](https://arxiv.org/abs/2205.02399), Jie Song, Ying Chen, Jingwen Ye, Mingli Song, TIP 2022, [code](https://github.com/zju-vipa/spot-adaptive-pytorch)
 * [MSDN: Mutually Semantic Distillation Network for Zero-Shot Learning](https://arxiv.org/abs/2203.03137), Shiming Chen, Ziming Hong, Guo-Sen Xie, Wenhan Yang, Qinmu Peng, Kai Wang, Jian Zhao, Xinge You, CVPR 2022
 * [Knowledge Distillation via the Target-aware Transformer](https://arxiv.org/abs/2205.10793), Sihao Lin, Hongwei Xie, Bing Wang, Kaicheng Yu, Xiaojun Chang, Xiaodan Liang, Gang Wang, CVPR 2022
-* [PointDistiller: Structured Knowledge Distillation Towards Efficient and Compact 3D Detection](https://arxiv.org/abs/2205.11098), Linfeng Zhang, Runpei Dong, Hung-Shuo Tai, Kaisheng Ma, arxiv 2022, [code](https://github.com/RunpeiDong/PointDistiller)
+* [PointDistiller: Structured Knowledge Distillation Towards Efficient and Compact 3D Detection](https://arxiv.org/abs/2205.11098), Linfeng Zhang, Runpei Dong, Hung-Shuo Tai, Kaisheng Ma, arXiv 2022, [code](https://github.com/RunpeiDong/PointDistiller)
 * [Wavelet Knowledge Distillation: Towards Efficient Image-to-Image Translation](https://arxiv.org/abs/2203.06321), Linfeng Zhang, Xin Chen, Xiaobing Tu, Pengfei Wan, Ning Xu, Kaisheng Ma, CVPR 2022
 * [Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation](https://arxiv.org/abs/2205.14141), Yixuan Wei, Han Hu, Zhenda Xie, Zheng Zhang, Yue Cao, Jianmin Bao, Dong Chen, Baining Guo, Tech Report 2022, [code](https://github.com/SwinTransformer/Feature-Distillation)
 * [Knowledge Distillation via the Target-aware Transformer](https://arxiv.org/abs/2205.10793), Sihao Lin, Hongwei Xie, Bing Wang, Kaicheng Yu, Xiaojun Chang, Xiaodan Liang, Gang Wang, CVPR 2022
@@ -185,5 +185,5 @@
 * [Towards Efficient 3D Object Detection with Knowledge Distillation](https://arxiv.org/abs/2205.15156), Jihan Yang, Shaoshuai Shi, Runyu Ding, Zhe Wang, Xiaojuan Qi, NeurlPS 2022
 * [Pro-KD: Progressive Distillation by Following the Footsteps of the Teacher](https://arxiv.org/abs/2110.08532), Mehdi Rezagholizadeh, Aref Jafari, Puneeth Salad, Pranav Sharma, Ali Saheb Pasand, Ali Ghodsi, COLING 2022
 * [Knowledge Distillation from A Stronger Teacher](https://arxiv.org/abs/2205.10536), Tao Huang, Shan You, Fei Wang, Chen Qian, Chang Xu, NeurIPS 2022, [code](https://github.com/hunto/DIST_KD)
-* [Noisy Self-Knowledge Distillation for Text Summarization](https://arxiv.org/abs/2009.07032), Yang Liu, Sheng Shen, Mirella Lapata, Arxiv 2021
+* [Noisy Self-Knowledge Distillation for Text Summarization](https://arxiv.org/abs/2009.07032), Yang Liu, Sheng Shen, Mirella Lapata, arXiv 2021
 
