@@ -45,7 +45,6 @@
 * [Recurrent Neural Network Training with Dark Knowledge Transfer](https://arxiv.org/pdf/1505.04630.pdf), Zhiyuan Tang, Dong Wang, Zhiyong Zhang, 2016
 * [Face Model Compression by Distilling Knowledge from Neurons](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11977/12130), Ping Luo, Zhenyao Zhu, Ziwei Liu, Xiaogang Wang, and Xiaoou Tang, 2016
 * [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947), Yoon Kim, Alexander M. Rush, EMNLP 2016
-* [Cross-lingual Distillation for Text Classification](https://arxiv.org/abs/1705.02073), https://arxiv.org/abs/1705.02073, ACL 2017, [code](https://github.com/xrc10/cross-distill)
 * [Distilling Word Embeddings: An Encoding Approach](https://arxiv.org/abs/1506.04488), Lili Mou, Ran Jia, Yan Xu, Ge Li, Lu Zhang, Zhi Jin, CIKM 2016
 
 ## 2017
@@ -56,7 +55,7 @@
 * [Data-Free Knowledge Distillation For Deep Neural Networks](http://raphagl.com/research/replayed-distillation/), Raphael Gontijo Lopes, Stefano Fenu, 2017 
 * [DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://arxiv.org/pdf/1707.01220), Yuntao Chen, Naiyan Wang, Zhaoxiang Zhang, 2017
 * [Adapting Models to Signal Degradation using Distillation](https://arxiv.org/pdf/1604.00433.pdf), Jong-Chyi Su, Subhransu Maji, BMVC 2017
-
+* [Cross-lingual Distillation for Text Classification](https://arxiv.org/abs/1705.02073), Ruochen Xu, Yiming Yang, ACL 2017, [code](https://github.com/xrc10/cross-distill)
 
 ## 2018
 
@@ -79,19 +78,19 @@
 * [Knowledge Adaptation for Efficient Semantic Segmentation](https://arxiv.org/abs/1903.04688), Tong He, Chunhua Shen, Zhi Tian, Dong Gong, Changming Sun, Youliang Yan, 2019
 * [A Comprehensive Overhaul of Feature Distillation](https://arxiv.org/abs/1904.01866), Byeongho Heo, Jeesoo Kim, Sangdoo Yun, Hyojin Park, Nojun Kwak, Jin Young Choi, 2019, [code](https://github.com/clovaai/overhaul-distillation)
 * [Towards Understanding Knowledge Distillation](http://arxiv.org/abs/2002.03532), Mary Phuong, Christoph Lampert, ICML, 2019
-- [Knowledge Distillation from Internal Representations](https://arxiv.org/abs/1910.03723), Gustavo Aguilar, Yuan Ling, Yu Zhang, Benjamin Yao, Xing Fan, Edward Guo, 2019
-- [Knowledge Flow: Improve Upon Your Teachers](https://arxiv.org/abs/1904.05878), Iou-Jen Liu, Jian Peng, Alexander G. Schwing, 2019
-- [Similarity-Preserving Knowledge Distillation](https://arxiv.org/pdf/1907.09682.pdf), Frederick Tung, Greg Mori, 2019
-- [Correlation Congruence for Knowledge Distillation](Correlation Congruence for Knowledge Distillation), Baoyun Peng, Xiao Jin, Jiaheng Liu, Shunfeng Zhou, Yichao Wu, Yu Liu, Dongsheng Li, Zhaoning Zhang, 2019
-- [Variational Information Distillation for Knowledge Transfer](https://arxiv.org/pdf/1904.05835.pdf), Sungsoo Ahn, Shell Xu Hu, Andreas Damianou, Neil D. Lawrence, Zhenwen Dai, 2019
-- [Knowledge Distillation via Instance Relationship Graph](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Knowledge_Distillation_via_Instance_Relationship_Graph_CVPR_2019_paper.pdf), Yufan Liu, Jiajiong Cao, Bing Lia, Chunfeng Yuan, Weiming Hua, Yangxi Lic, Yunqiang Duan, CVPR 2019
-- [Structured Knowledge Distillation for Semantic Segmentation](https://arxiv.org/pdf/1903.04197.pdf), Yifan Liu, Changyong Shu, Jingdong Wang, Chunhua Shen, CVPR 2019
-- [Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention](https://aclanthology.org/P19-1305/), Xiangyu Duan, Mingming Yin, Min Zhang, Boxing Chen, Weihua Luo, ACL 2019, [code](https://github.com/KelleyYin/Cross-lingual-Summarization)
-- [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/abs/1903.12136), Raphael Tang, Yao Lu, Linqing Liu, Lili Mou, Olga Vechtomova, Jimmy Lin, Arxiv, 2019
-- [Multilingual Neural Machine Translation with Knowledge Distillation](https://arxiv.org/abs/1902.10461), Xu Tan, Yi Ren, Di He, Tao Qin, Zhou Zhao, Tie-Yan Liu, ICLR 2019
-- [BAM! Born-Again Multi-Task Networks for Natural Language Understanding](https://arxiv.org/abs/1907.04829), Kevin Clark, Minh-Thang Luong, Urvashi Khandelwal, Christopher D. Manning, Quoc V. Le, ACL 2019
-- [Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding](https://arxiv.org/abs/1904.09482), Xiaodong Liu, Pengcheng He, Weizhu Chen, Jianfeng Gao, arXiv 2019
-- [Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection](https://ojs.aaai.org//index.php/AAAI/article/view/4649), AAAI 2019
+* [Knowledge Distillation from Internal Representations](https://arxiv.org/abs/1910.03723), Gustavo Aguilar, Yuan Ling, Yu Zhang, Benjamin Yao, Xing Fan, Edward Guo, 2019
+* [Knowledge Flow: Improve Upon Your Teachers](https://arxiv.org/abs/1904.05878), Iou-Jen Liu, Jian Peng, Alexander G. Schwing, 2019
+* [Similarity-Preserving Knowledge Distillation](https://arxiv.org/pdf/1907.09682.pdf), Frederick Tung, Greg Mori, 2019
+* [Correlation Congruence for Knowledge Distillation](Correlation Congruence for Knowledge Distillation), Baoyun Peng, Xiao Jin, Jiaheng Liu, Shunfeng Zhou, Yichao Wu, Yu Liu, Dongsheng Li, Zhaoning Zhang, 2019
+* [Variational Information Distillation for Knowledge Transfer](https://arxiv.org/pdf/1904.05835.pdf), Sungsoo Ahn, Shell Xu Hu, Andreas Damianou, Neil D. Lawrence, Zhenwen Dai, 2019
+* [Knowledge Distillation via Instance Relationship Graph](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Knowledge_Distillation_via_Instance_Relationship_Graph_CVPR_2019_paper.pdf), Yufan Liu, Jiajiong Cao, Bing Lia, Chunfeng Yuan, Weiming Hua, Yangxi Lic, Yunqiang Duan, CVPR 2019
+* [Structured Knowledge Distillation for Semantic Segmentation](https://arxiv.org/pdf/1903.04197.pdf), Yifan Liu, Changyong Shu, Jingdong Wang, Chunhua Shen, CVPR 2019
+* [Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention](https://aclanthology.org/P19-1305/), Xiangyu Duan, Mingming Yin, Min Zhang, Boxing Chen, Weihua Luo, ACL 2019, [code](https://github.com/KelleyYin/Cross-lingual-Summarization)
+* [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/abs/1903.12136), Raphael Tang, Yao Lu, Linqing Liu, Lili Mou, Olga Vechtomova, Jimmy Lin, Arxiv, 2019
+* [Multilingual Neural Machine Translation with Knowledge Distillation](https://arxiv.org/abs/1902.10461), Xu Tan, Yi Ren, Di He, Tao Qin, Zhou Zhao, Tie-Yan Liu, ICLR 2019
+* [BAM! Born-Again Multi-Task Networks for Natural Language Understanding](https://arxiv.org/abs/1907.04829), Kevin Clark, Minh-Thang Luong, Urvashi Khandelwal, Christopher D. Manning, Quoc V. Le, ACL 2019
+* [Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding](https://arxiv.org/abs/1904.09482), Xiaodong Liu, Pengcheng He, Weizhu Chen, Jianfeng Gao, arXiv 2019
+* [Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection](https://ojs.aaai.org//index.php/AAAI/article/view/4649), AAAI 2019
 
 
 ## 2020
