@@ -189,3 +189,4 @@
 * [On Distillation of Guided Diffusion Models](https://arxiv.org/abs/2210.03142), Chenlin Meng, Ruiqi Gao, Diederik P. Kingma, Stefano Ermon, Jonathan Ho, Tim Salimans, arXiv 2022
 * [ViTKD: Practical Guidelines for ViT feature knowledge distillation](https://arxiv.org/abs/2209.02432), Zhendong Yang, Zhe Li, Ailing Zeng, Zexian Li, Chun Yuan, Yu Li, arXiv 2022, [code](https://github.com/yzd-v/cls_KD)
 * [Self-Regulated Feature Learning via Teacher-free Feature Distillation](https://lilujunai.github.io/Teacher-free-Distillation/), Lujun Li, ECCV 2022, [code](https://github.com/lilujunai/Teacher-free-Distillation)
+* [DETRDistill: A Universal Knowledge Distillation Framework for DETR-families](https://arxiv.org/abs/2211.10156v2), Jiahao Chang, Shuo Wang, Guangkai Xu, Zehui Chen, Chenhongyi Yang, Feng Zhao, arXiv 2022
