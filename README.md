@@ -191,3 +191,4 @@
 * [Self-Regulated Feature Learning via Teacher-free Feature Distillation](https://lilujunai.github.io/Teacher-free-Distillation/), Lujun Li, ECCV 2022, [code](https://github.com/lilujunai/Teacher-free-Distillation)
 * [DETRDistill: A Universal Knowledge Distillation Framework for DETR-families](https://arxiv.org/abs/2211.10156v2), Jiahao Chang, Shuo Wang, Guangkai Xu, Zehui Chen, Chenhongyi Yang, Feng Zhao, arXiv 2022
 * [Learning to Explore Distillability and Sparsability: A Joint Framework for Model Compression](https://ieeexplore.ieee.org/abstract/document/9804342), Yufan Liu, Jiajiong Cao, Bing Li, Weiming Hu, Stephen Maybank, TPAMI 2022
+* [Revisiting Label Smoothing and Knowledge Distillation Compatibility: What was Missing?](https://proceedings.mlr.press/v162/chandrasegaran22a/chandrasegaran22a.pdf), Keshigeyan Chandrasegaran, Ngoc-Trung Tran, Yunqing Zhao, Ngai-Man Cheung, ICML 2022
