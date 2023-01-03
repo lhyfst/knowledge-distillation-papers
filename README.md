@@ -195,3 +195,4 @@
 
 ## 2023
 * [Curriculum Temperature for Knowledge Distillation](https://arxiv.org/abs/2211.16231), Zheng Li, Xiang Li, Lingfeng Yang, Borui Zhao, Renjie Song, Lei Luo, Jun Li, Jian Yang, AAAI 2023, [code](https://github.com/zhengli97/CTKD)
+* [Disjoint Masking with Joint Distillation for Efficient Masked Image Modeling](https://arxiv.org/abs/2301.00230), Xin Ma, Chang Liu, Chunyu Xie, Long Ye, Yafeng Deng, Xiangyang Ji, arXiv 2023, [code](https://github.com/mx-mark/DMJD)
