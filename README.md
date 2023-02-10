@@ -184,7 +184,6 @@
 * [ALADIN: Distilling Fine-grained Alignment Scores for Efficient Image-Text Matching and Retrieval](https://arxiv.org/abs/2207.14757), Nicola Messina, Matteo Stefanini, Marcella Cornia, Lorenzo Baraldi, Fabrizio Falchi, Giuseppe Amato, Rita Cucchiara, CBMI 2022, [code](https://github.com/mesnico/ALADIN)
 * [Towards Efficient 3D Object Detection with Knowledge Distillation](https://arxiv.org/abs/2205.15156), Jihan Yang, Shaoshuai Shi, Runyu Ding, Zhe Wang, Xiaojuan Qi, NeurlPS 2022, [code](https://github.com/CVMI-Lab/SparseKD)
 * [Pro-KD: Progressive Distillation by Following the Footsteps of the Teacher](https://arxiv.org/abs/2110.08532), Mehdi Rezagholizadeh, Aref Jafari, Puneeth Salad, Pranav Sharma, Ali Saheb Pasand, Ali Ghodsi, COLING 2022
-* [Knowledge Distillation from A Stronger Teacher](https://arxiv.org/abs/2205.10536), Tao Huang, Shan You, Fei Wang, Chen Qian, Chang Xu, NeurIPS 2022, [code](https://github.com/hunto/DIST_KD)
 * [Noisy Self-Knowledge Distillation for Text Summarization](https://arxiv.org/abs/2009.07032), Yang Liu, Sheng Shen, Mirella Lapata, arXiv 2021
 * [On Distillation of Guided Diffusion Models](https://arxiv.org/abs/2210.03142), Chenlin Meng, Ruiqi Gao, Diederik P. Kingma, Stefano Ermon, Jonathan Ho, Tim Salimans, arXiv 2022
 * [ViTKD: Practical Guidelines for ViT feature knowledge distillation](https://arxiv.org/abs/2209.02432), Zhendong Yang, Zhe Li, Ailing Zeng, Zexian Li, Chun Yuan, Yu Li, arXiv 2022, [code](https://github.com/yzd-v/cls_KD)
